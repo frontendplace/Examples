@@ -2,1911 +2,1720 @@
   {
     "voornaam": "Alex",
     "achternaam": "Peschar",
+    "geboortedag": "05/26",
     "mobiel": "06-46380786",
     "email": "alexpeschar@gmail.com",
-    "sinds": "1-1-2004",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "26 mei",
-    "avatar": "alex-peschar.png"
+    "clublid": "2004/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Alice",
     "achternaam": "Neet",
+    "geboortedag": "05/25",
     "mobiel": "06-22087527",
     "email": "alicelouiseneet@gmail.com",
-    "sinds": "18-2-2022",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "25 mei",
-    "avatar": "alice-neet.png"
+    "clublid": "2022/02/18",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Almar",
     "achternaam": "Uilenbroek",
+    "geboortedag": "07/13",
     "mobiel": "06-41097957",
     "email": "almar@vankatoen.info",
-    "sinds": "1-1-2009",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "13 juli",
-    "avatar": "almar-uilenbroek.png"
+    "clublid": "2009/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Amanda",
     "achternaam": "Hageman",
+    "geboortedag": "09/26",
     "mobiel": "06-43153366",
     "email": "hageman.amanda@gmail.com",
-    "sinds": "19-9-2013",
-    "soort": "Zwemlid",
-    "verjaardag": "26 september",
-    "avatar": "amanda-hageman.png"
+    "clublid": "2013/09/19",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Anne",
     "achternaam": "Bekema",
+    "geboortedag": "03/27",
     "mobiel": "",
     "email": "abekema@gmail.com",
-    "sinds": "31-12-2021",
-    "soort": "Zwemlid",
-    "verjaardag": "27 maart",
-    "avatar": "anne-bekema.png"
+    "clublid": "2021/12/31",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Anne-Ruth",
     "achternaam": "Elffers",
+    "geboortedag": "08/12",
     "mobiel": "06-12214211",
     "email": "ar.elffers@gmail.com",
-    "sinds": "1-1-2018",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "12 augustus",
-    "avatar": "anne-ruth-elffers.png"
+    "clublid": "2018/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Annie van",
     "achternaam": "Pieterson",
+    "geboortedag": "08/11",
     "mobiel": "",
     "email": "avanpieterson@hotmail.com",
-    "sinds": "1-1-2008",
-    "soort": "Zwemlid",
-    "verjaardag": "11 augustus",
-    "avatar": "annie-van-pieterson.png"
+    "clublid": "2008/01/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Anny de",
     "achternaam": "Graauw",
+    "geboortedag": "05/29",
     "mobiel": "06-46690321",
     "email": "jfmgraauw@gmail.com",
-    "sinds": "1-1-2018",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "29 mei",
-    "avatar": "anny-de-graauw.png"
+    "clublid": "2018/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Arjan van",
     "achternaam": "Ombergen",
+    "geboortedag": "11/29",
     "mobiel": "06-31944103",
     "email": "arjan_1978@hotmail.com",
-    "sinds": "10-1-2010",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "29 november",
-    "avatar": "arjan-van-ombergen.png"
+    "clublid": "2010/01/10",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Astrid",
     "achternaam": "Zonneveld",
+    "geboortedag": "09/25",
     "mobiel": "06-16854491",
     "email": "astrid.zonneveld@yahoo.com",
-    "sinds": "10-1-2001",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "25 september",
-    "avatar": "astrid-zonneveld.png"
+    "clublid": "2001/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Bart",
     "achternaam": "Teeuwen",
+    "geboortedag": "11/12",
     "mobiel": "06-12828613",
     "email": "b.teeuwen76@gmail.com",
-    "sinds": "10-3-2019",
-    "soort": "Zwemlid",
-    "verjaardag": "12 november",
-    "avatar": "bart-teeuwen.png"
+    "clublid": "2019/03/10",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Bart van den",
     "achternaam": "Kommer",
+    "geboortedag": "02/09",
     "mobiel": "06-53666724",
     "email": "bartvandenkommer@gmail.com",
-    "sinds": "4-1-2013",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "9 februari",
-    "avatar": "bart-van-den-kommer.png"
+    "clublid": "2013/01/04",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Bas",
     "achternaam": "Salzmann",
+    "geboortedag": "08/27",
     "mobiel": "06-21210920",
     "email": "basbsalzmann@gmail.com",
-    "sinds": "1-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "27 augustus",
-    "avatar": "bas-salzmann.png"
+    "clublid": "2008/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Beau",
     "achternaam": "Plaizier",
+    "geboortedag": "08/11",
     "mobiel": "06-83839144",
     "email": "beau.plaizier1@gmail.com",
-    "sinds": "27-1-2022",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "11 augustus",
-    "avatar": "beau-plaizier.png"
+    "clublid": "2022/01/27",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ben",
     "achternaam": "Langeveld",
+    "geboortedag": "03/21",
     "mobiel": "06-51842074",
     "email": "benfire52@hotmail.com",
-    "sinds": "9-1-2006",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "21 maart",
-    "avatar": "ben-langeveld.png"
+    "clublid": "2006/01/09",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Benjamin",
     "achternaam": "Kooijman",
+    "geboortedag": "09/10",
     "mobiel": "06-57577200",
     "email": "skooijman1982@gmail.com",
-    "sinds": "31-12-2021",
-    "soort": "Zwemlid",
-    "verjaardag": "10 september",
-    "avatar": "benjamin-kooijman.png"
+    "clublid": "2021/12/31",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Bente",
     "achternaam": "Kors",
+    "geboortedag": "08/21",
     "mobiel": "06-24872702",
     "email": "frankedith@hetnet.nl",
-    "sinds": "21-8-2015",
-    "soort": "Zwemlid",
-    "verjaardag": "21 augustus",
-    "avatar": "bente-kors.png"
+    "clublid": "2015/08/21",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Betty",
     "achternaam": "Hageman",
+    "geboortedag": "09/12",
     "mobiel": "06-46338362",
     "email": "paghageman0@gmail.com",
-    "sinds": "10-1-2015",
-    "soort": "Zwemlid",
-    "verjaardag": "12 september",
-    "avatar": "betty-hageman.png"
+    "clublid": "2015/01/10",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Betty",
     "achternaam": "Schouten",
+    "geboortedag": "09/11",
     "mobiel": "06-36363431",
     "email": "betty.schouten@wxs.nl",
-    "sinds": "11-1-1997",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "11 september",
-    "avatar": "betty-schouten.png"
+    "clublid": "1997/01/11",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Bodhi van den",
     "achternaam": "Brink",
+    "geboortedag": "10/09",
     "mobiel": "",
     "email": "theadegraafvrolijk@gmail.com",
-    "sinds": "1-1-2015",
-    "soort": "Zwemlid",
-    "verjaardag": "9 oktober",
-    "avatar": "bodhi-van-den-brink.png"
+    "clublid": "2015/01/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Carina",
     "achternaam": "Boerboom-Tolle",
+    "geboortedag": "10/31",
     "mobiel": "06-17670993",
     "email": "carinatolle1@gmail.com",
-    "sinds": "13-11-2021",
-    "soort": "Zwemlid",
-    "verjaardag": "31 oktober",
-    "avatar": "carina-boerboom-tolle.png"
+    "clublid": "2021/11/13",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Cees",
     "achternaam": "Hoogland",
+    "geboortedag": "09/22",
     "mobiel": "06-46065977",
     "email": "post@ceeshoogland.nl",
-    "sinds": "22-9-1977",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "22 september",
-    "avatar": "cees-hoogland.png"
+    "clublid": "1977/09/22",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Cees",
     "achternaam": "Sep",
+    "geboortedag": "10/05",
     "mobiel": "06-54778557",
     "email": "cjsep@jelima.nl",
-    "sinds": "10-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "5 oktober",
-    "avatar": "cees-sep.png"
+    "clublid": "2008/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Chris",
     "achternaam": "Lether",
+    "geboortedag": "05/15",
     "mobiel": "06-51826909",
     "email": "chrislether@ziggo.nl",
-    "sinds": "18-2-1982",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "15 mei",
-    "avatar": "chris-lether.png"
+    "clublid": "1982/02/18",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Christopher",
     "achternaam": "Henrich",
+    "geboortedag": "01/23",
     "mobiel": "06-10941619",
     "email": "cdh79@caiway.nl",
-    "sinds": "29-10-2015",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "23 januari",
-    "avatar": "christopher-henrich.png"
+    "clublid": "2015/10/29",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Cian",
     "achternaam": "Palmer",
+    "geboortedag": "05/19",
     "mobiel": "06-15379723",
     "email": "cianpalmer10@gmail.com",
-    "sinds": "8-10-2021",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "19 mei",
-    "avatar": "cian-palmer.png"
+    "clublid": "2021/10/08",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Colette van",
     "achternaam": "Goch-Oostingh",
+    "geboortedag": "07/10",
     "mobiel": "06-40972681",
     "email": "colette.van.goch@live.nl",
-    "sinds": "15-2-2017",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "10 juli",
-    "avatar": "colette-van-goch-oostingh.png"
+    "clublid": "2017/02/15",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Cora van den",
     "achternaam": "Nieuwendijk",
+    "geboortedag": "09/06",
     "mobiel": "06-46427568",
     "email": "cvdnieuwendijk@jelima.nl",
-    "sinds": "6-1-2011",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "6 september",
-    "avatar": "cora-van-den-nieuwendijk.png"
+    "clublid": "2011/01/06",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Daan de",
     "achternaam": "Ruig",
+    "geboortedag": "05/05",
     "mobiel": "06-48512229",
     "email": "daanjacobderuig@gmail.com",
-    "sinds": "3-1-2020",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "5 mei",
-    "avatar": "daan-de-ruig.png"
+    "clublid": "2020/01/03",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Daley van den",
     "achternaam": "Brink",
+    "geboortedag": "03/08",
     "mobiel": "",
     "email": "theadegraafvrolijk@gmail.com",
-    "sinds": "1-1-2017",
-    "soort": "Zwemlid",
-    "verjaardag": "8 maart",
-    "avatar": "daley-van-den-brink.png"
+    "clublid": "2017/01/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Danielle",
     "achternaam": "Nootenboom",
+    "geboortedag": "12/07",
     "mobiel": "",
     "email": "hanshoole@hotmail.com",
-    "sinds": "11-1-2014",
-    "soort": "Zwemlid",
-    "verjaardag": "7 december",
-    "avatar": "danielle-nootenboom.png"
+    "clublid": "2014/01/11",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Dennis",
     "achternaam": "Dekker",
+    "geboortedag": "02/21",
     "mobiel": "06-55833902",
     "email": "dennis.dekker@quicknet.nl",
-    "sinds": "9-1-2003",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "21 februari",
-    "avatar": "dennis-dekker.png"
+    "clublid": "2003/01/09",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Dick van de",
     "achternaam": "Watering",
+    "geboortedag": "11/24",
     "mobiel": "06-46260698",
     "email": "djhms2004@hotmail.com",
-    "sinds": "1-1-2012",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "24 november",
-    "avatar": "dick-van-de-watering.png"
+    "clublid": "2012/01/01",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Ed de",
     "achternaam": "Groot",
+    "geboortedag": "11/04",
     "mobiel": "06-53164029",
     "email": "degroot5411@gmail.com",
-    "sinds": "5-1-1980",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "4 november",
-    "avatar": "ed-de-groot.png"
+    "clublid": "1980/01/05",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ed",
     "achternaam": "Kuijper",
+    "geboortedag": "01/15",
     "mobiel": "06-30319537",
     "email": "ed.kuijper@gmail.com",
-    "sinds": "9-1-1991",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "15 januari",
-    "avatar": "ed-kuijper.png"
+    "clublid": "1991/01/09",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ed",
     "achternaam": "Ploeger",
+    "geboortedag": "01/03",
     "mobiel": "06-13990480",
     "email": "edploeger@hotmail.com",
-    "sinds": "3-1-1976",
-    "soort": "Seniorenlid",
-    "verjaardag": "3 januari",
-    "avatar": "ed-ploeger.png"
+    "clublid": "1976/01/03",
+    "soort": "Seniorenlid"
   },
   {
     "voornaam": "Edith van",
     "achternaam": "Leerdam",
+    "geboortedag": "08/05",
     "mobiel": "06-24872702",
     "email": "frankedith@hetnet.nl",
-    "sinds": "10-1-2008",
-    "soort": "Zwemlid",
-    "verjaardag": "5 augustus",
-    "avatar": "edith-van-leerdam.png"
+    "clublid": "2008/01/10",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Eelco de",
     "achternaam": "Smidt",
+    "geboortedag": "07/08",
     "mobiel": "06-44860510",
     "email": "eelco@desmidt.eu",
-    "sinds": "10-1-1992",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "8 juli",
-    "avatar": "eelco-de-smidt.png"
+    "clublid": "1992/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Elwin Volmar",
     "achternaam": "Dirkse",
+    "geboortedag": "09/18",
     "mobiel": "06-55160618",
     "email": "elwindirkse@hotmail.com",
-    "sinds": "23-1-2009",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "18 september",
-    "avatar": "elwin-volmar-dirkse.png"
+    "clublid": "2009/01/23",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Erik",
     "achternaam": "Skoda",
+    "geboortedag": "11/02",
     "mobiel": "06-18061849",
     "email": "e.skoda@chello.nl",
-    "sinds": "1-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "2 november",
-    "avatar": "erik-skoda.png"
+    "clublid": "2008/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Erik van der",
     "achternaam": "Maat",
+    "geboortedag": "07/04",
     "mobiel": "06-54743510",
     "email": "hcmaat@caiway.net",
-    "sinds": "10-1-2002",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "4 juli",
-    "avatar": "erik-van-der-maat.png"
+    "clublid": "2002/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Erik van",
     "achternaam": "Lunteren",
+    "geboortedag": "05/26",
     "mobiel": "",
     "email": "ej.van.lunteren@hccnet.nl",
-    "sinds": "10-1-1990",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "26 mei",
-    "avatar": "erik-van-lunteren.png"
+    "clublid": "1990/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Erik",
     "achternaam": "Wijshake",
+    "geboortedag": "02/17",
     "mobiel": "06-10165714",
     "email": "eriktheperik@gmail.com",
-    "sinds": "18-2-2022",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "17 februari",
-    "avatar": "erik-wijshake.png"
+    "clublid": "2022/02/18",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Esther van",
     "achternaam": "Veen",
+    "geboortedag": "03/23",
     "mobiel": "06-40351931",
     "email": "veen054@kpnmail.nl",
-    "sinds": "3-1-2020",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "23 maart",
-    "avatar": "esther-van-veen.png"
+    "clublid": "2020/01/03",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Eva de",
     "achternaam": "Vries",
+    "geboortedag": "02/12",
     "mobiel": "",
     "email": "reman@quicknet.nl",
-    "sinds": "10-1-2014",
-    "soort": "Zwemlid",
-    "verjaardag": "12 februari",
-    "avatar": "eva-de-vries.png"
+    "clublid": "2014/01/10",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Evgeniy",
     "achternaam": "Shokaryev",
+    "geboortedag": "01/28",
     "mobiel": "06-55165449",
     "email": "i.shokaryev@gmail.com",
-    "sinds": "22-9-2018",
-    "soort": "Zwemlid",
-    "verjaardag": "28 januari",
-    "avatar": "evgeniy-shokaryev.png"
+    "clublid": "2018/09/22",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Femke",
     "achternaam": "Groot",
+    "geboortedag": "07/13",
     "mobiel": "06-37360379",
     "email": "fem.groot@gmail.com",
-    "sinds": "1-1-2018",
-    "soort": "Duiklid-NOB",
-    "verjaardag": "13 juli",
-    "avatar": "femke-groot.png"
+    "clublid": "2018/01/01",
+    "soort": "Duiklid-NOB"
   },
   {
     "voornaam": "Floor",
     "achternaam": "Kooijman",
+    "geboortedag": "07/30",
     "mobiel": "",
     "email": "skooijman1982@gmail.com",
-    "sinds": "31-12-2021",
-    "soort": "Zwemlid",
-    "verjaardag": "30 juli",
-    "avatar": "floor-kooijman.png"
+    "clublid": "2021/12/31",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Francis",
     "achternaam": "Sminia",
+    "geboortedag": "11/17",
     "mobiel": "06-22244308",
     "email": "ronald.francis@telfort.nl",
-    "sinds": "1-1-2004",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "17 november",
-    "avatar": "francis-sminia.png"
+    "clublid": "2004/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Frank",
     "achternaam": "Kors",
+    "geboortedag": "03/02",
     "mobiel": "06-34782972",
     "email": "frankedith@hetnet.nl",
-    "sinds": "16-9-1982",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "2 maart",
-    "avatar": "frank-kors.png"
+    "clublid": "1982/09/16",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Frank",
     "achternaam": "Scholtens",
+    "geboortedag": "01/28",
     "mobiel": "06-37611110",
     "email": "frank.scholtens@quicknet.nl",
-    "sinds": "24-9-1998",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "28 januari",
-    "avatar": "frank-scholtens.png"
+    "clublid": "1998/09/24",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Frans",
     "achternaam": "Boerhof",
+    "geboortedag": "10/10",
     "mobiel": "06-53681243",
     "email": "fboerhof@hotmail.com",
-    "sinds": "18-10-1998",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "10 oktober",
-    "avatar": "frans-boerhof.png"
+    "clublid": "1998/10/18",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Frans",
     "achternaam": "Diek",
+    "geboortedag": "01/22",
     "mobiel": "06-24235894",
     "email": "gfdiek@hetnet.nl",
-    "sinds": "18-2-1982",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "22 januari",
-    "avatar": "frans-diek.png"
+    "clublid": "1982/02/18",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Frans",
     "achternaam": "Schelling",
+    "geboortedag": "10/01",
     "mobiel": "06-24593583",
     "email": "fjschelling@gmail.com",
-    "sinds": "11-1-2019",
-    "soort": "Zwemlid",
-    "verjaardag": "1 oktober",
-    "avatar": "frans-schelling.png"
+    "clublid": "2019/01/11",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Frans van den",
     "achternaam": "Berg",
+    "geboortedag": "07/15",
     "mobiel": "06-25299094",
     "email": "doemaarfrans@gmail.com",
-    "sinds": "10-1-1990",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "15 juli",
-    "avatar": "frans-van-den-berg.png"
+    "clublid": "1990/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Fred",
     "achternaam": "Kuipers",
+    "geboortedag": "03/29",
     "mobiel": "06-13591929",
     "email": "f.kuipers@lijbrandt.nl",
-    "sinds": "25-4-2000",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "29 maart",
-    "avatar": "fred-kuipers.png"
+    "clublid": "2000/04/25",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Fred",
     "achternaam": "Verlinden",
+    "geboortedag": "06/21",
     "mobiel": "06-15091164",
     "email": "faverlinden@gmail.com",
-    "sinds": "1-1-1986",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "21 juni",
-    "avatar": "fred-verlinden.png"
+    "clublid": "1986/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Gert",
     "achternaam": "Krab",
+    "geboortedag": "07/12",
     "mobiel": "06-25026160",
     "email": "gertkrab@planet.nl",
-    "sinds": "10-1-1993",
-    "soort": "Seniorenlid",
-    "verjaardag": "12 juli",
-    "avatar": "gert-krab.png"
+    "clublid": "1993/01/10",
+    "soort": "Seniorenlid"
   },
   {
     "voornaam": "Ginette",
     "achternaam": "Barraud",
+    "geboortedag": "09/07",
     "mobiel": "",
     "email": "mdegroot5519@gmail.com",
-    "sinds": "9-1-1979",
-    "soort": "Zwemlid",
-    "verjaardag": "7 september",
-    "avatar": "ginette-barraud.png"
+    "clublid": "1979/01/09",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Han",
     "achternaam": "Schiet",
+    "geboortedag": "02/20",
     "mobiel": "",
     "email": "schiet.han@gmail.com",
-    "sinds": "10-1-1984",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "20 februari",
-    "avatar": "han-schiet.png"
+    "clublid": "1984/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Hanky",
     "achternaam": "Stolvoort-Ris",
+    "geboortedag": "07/13",
     "mobiel": "",
     "email": "hanky.ris@planet.nl",
-    "sinds": "11-1-1987",
-    "soort": "Zwemlid",
-    "verjaardag": "13 juli",
-    "avatar": "hanky-stolvoort-ris.png"
+    "clublid": "1987/01/11",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Hannah de",
     "achternaam": "Wit",
+    "geboortedag": "07/06",
     "mobiel": "",
     "email": "mathilde@serne.nl",
-    "sinds": "4-3-2018",
-    "soort": "Zwemlid",
-    "verjaardag": "6 juli",
-    "avatar": "hannah-de-wit.png"
+    "clublid": "2018/03/04",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Hans",
     "achternaam": "Boerboom",
+    "geboortedag": "08/08",
     "mobiel": "06-40453142",
     "email": "hans.boerboom@gmail.com",
-    "sinds": "4-1-1987",
-    "soort": "Seniorenlid",
-    "verjaardag": "8 augustus",
-    "avatar": "hans-boerboom.png"
+    "clublid": "1987/01/04",
+    "soort": "Seniorenlid"
   },
   {
     "voornaam": "Hans",
     "achternaam": "Castien",
+    "geboortedag": "11/23",
     "mobiel": "",
     "email": "j.castien@quicknet.nl",
-    "sinds": "10-1-1986",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "23 november",
-    "avatar": "hans-castien.png"
+    "clublid": "1986/01/10",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Hans",
     "achternaam": "Hoekstra",
+    "geboortedag": "04/08",
     "mobiel": "06-31774454",
     "email": "hc.hoekstra@quicknet.nl",
-    "sinds": "10-1-1994",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "8 april",
-    "avatar": "hans-hoekstra.png"
+    "clublid": "1994/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Hans",
     "achternaam": "Hoole",
+    "geboortedag": "12/20",
     "mobiel": "06-29002012",
     "email": "hanshoole@hotmail.com",
-    "sinds": "10-1-2002",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "20 december",
-    "avatar": "hans-hoole.png"
+    "clublid": "2002/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Hans",
     "achternaam": "Kemp",
+    "geboortedag": "01/28",
     "mobiel": "",
     "email": "sanhank@hotmail.com",
-    "sinds": "18-6-1966",
-    "soort": "",
-    "verjaardag": "28 januari",
-    "avatar": "hans-kemp.png"
+    "clublid": "1966/06/18",
+    "soort": ""
   },
   {
     "voornaam": "Hans",
     "achternaam": "Stolvoort",
+    "geboortedag": "01/21",
     "mobiel": "06-54357160",
     "email": "hans.stolvoort@planet.nl",
-    "sinds": "18-2-1982",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "21 januari",
-    "avatar": "hans-stolvoort.png"
+    "clublid": "1982/02/18",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Hans van",
     "achternaam": "Zijtveld",
+    "geboortedag": "06/25",
     "mobiel": "",
     "email": "hvanzijtveld@hotmail.com",
-    "sinds": "15-9-2006",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "25 juni",
-    "avatar": "hans-van-zijtveld.png"
+    "clublid": "2006/09/15",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Harm de",
     "achternaam": "Wit",
+    "geboortedag": "09/30",
     "mobiel": "06-50601869",
     "email": "harm.de.wit@hotmail.com",
-    "sinds": "5-9-2013",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "30 september",
-    "avatar": "harm-de-wit.png"
+    "clublid": "2013/09/05",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Henk",
     "achternaam": "Seeder",
+    "geboortedag": "05/14",
     "mobiel": "",
     "email": "",
-    "sinds": "15-1-1970",
-    "soort": "",
-    "verjaardag": "14 mei",
-    "avatar": "henk-seeder.png"
+    "clublid": "1970/01/15",
+    "soort": ""
   },
   {
     "voornaam": "Igor",
     "achternaam": "Shokaryev",
+    "geboortedag": "11/15",
     "mobiel": "06-55165449",
     "email": "i.shokaryev@gmail.com",
-    "sinds": "2-1-2010",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "15 november",
-    "avatar": "igor-shokaryev.png"
+    "clublid": "2010/01/02",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ilse",
     "achternaam": "Klomp",
+    "geboortedag": "05/07",
     "mobiel": "06-30211708",
     "email": "klompenzo@hotmail.com",
-    "sinds": "7-12-2000",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "7 mei",
-    "avatar": "ilse-klomp.png"
+    "clublid": "2000/12/07",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ingeborg",
     "achternaam": "Korpershoek",
+    "geboortedag": "12/04",
     "mobiel": "06-29286266",
     "email": "ingeborgkorpershoek@hotmail.com",
-    "sinds": "10-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "4 december",
-    "avatar": "ingeborg-korpershoek.png"
+    "clublid": "2008/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Isa",
     "achternaam": "Kuipers",
+    "geboortedag": "06/23",
     "mobiel": "06-13591929",
     "email": "f.kuipers@lijbrandt.nl",
-    "sinds": "1-1-2014",
-    "soort": "Zwemlid",
-    "verjaardag": "23 juni",
-    "avatar": "isa-kuipers.png"
+    "clublid": "2014/01/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Jan",
     "achternaam": "Gerver",
+    "geboortedag": "06/06",
     "mobiel": "06-20015609",
     "email": "jangerver@hotmail.com",
-    "sinds": "18-10-1998",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "6 juni",
-    "avatar": "jan-gerver.png"
+    "clublid": "1998/10/18",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Jan",
     "achternaam": "Peters",
+    "geboortedag": "07/10",
     "mobiel": "06-21504963",
     "email": "janptrs9-c@telfort.nl",
-    "sinds": "10-1-1990",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "10 juli",
-    "avatar": "jan-peters.png"
+    "clublid": "1990/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Jan-Pieter",
     "achternaam": "Smit",
+    "geboortedag": "03/21",
     "mobiel": "06-54676208",
     "email": "jps-1963@hotmail.com",
-    "sinds": "9-1-2003",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "21 maart",
-    "avatar": "jan-pieter-smit.png"
+    "clublid": "2003/01/09",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Jarno van",
     "achternaam": "Leeuwen",
+    "geboortedag": "01/18",
     "mobiel": "06-82690461",
     "email": "jarno.vl1801@gmail.com",
-    "sinds": "27-1-2022",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "18 januari",
-    "avatar": "jarno-van-leeuwen.png"
+    "clublid": "2022/01/27",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Jeanette",
     "achternaam": "Zieltjens-de Kort",
+    "geboortedag": "01/30",
     "mobiel": "06-12486470",
     "email": "jeankick@planet.nl",
-    "sinds": "9-1-1998",
-    "soort": "Zwemlid",
-    "verjaardag": "30 januari",
-    "avatar": "jeanette-zieltjens-de-kort.png"
+    "clublid": "1998/01/09",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Jeroen",
     "achternaam": "Kamp",
+    "geboortedag": "10/13",
     "mobiel": "06-54650790",
     "email": "jeroenkamp90@hotmail.com",
-    "sinds": "17-1-2019",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "13 oktober",
-    "avatar": "jeroen-kamp.png"
+    "clublid": "2019/01/17",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Jeroen",
     "achternaam": "Reininga",
+    "geboortedag": "03/16",
     "mobiel": "06-18992418",
     "email": "jeroen2day@gmail.com",
-    "sinds": "3-1-2020",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "16 maart",
-    "avatar": "jeroen-reininga.png"
+    "clublid": "2020/01/03",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Jeroen",
     "achternaam": "Tromp",
+    "geboortedag": "07/25",
     "mobiel": "06-47318910",
     "email": "jeroentromp@ziggo.nl",
-    "sinds": "17-1-2019",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "25 juli",
-    "avatar": "jeroen-tromp.png"
+    "clublid": "2019/01/17",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "John van",
     "achternaam": "Leeuwen",
+    "geboortedag": "03/07",
     "mobiel": "",
     "email": "john-van-leeuwen@live.nl",
-    "sinds": "10-10-1977",
-    "soort": "Seniorenlid",
-    "verjaardag": "7 maart",
-    "avatar": "john-van-leeuwen.png"
+    "clublid": "1977/10/10",
+    "soort": "Seniorenlid"
   },
   {
     "voornaam": "Jolanda",
     "achternaam": "Coppens-Zwetsloot",
+    "geboortedag": "01/20",
     "mobiel": "06-44882694",
     "email": "viermaalj@zonnet.nl",
-    "sinds": "25-8-1996",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "20 januari",
-    "avatar": "jolanda-coppens-zwetsloot.png"
+    "clublid": "1996/08/25",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Jolanda",
     "achternaam": "Smaal",
+    "geboortedag": "06/25",
     "mobiel": "06-18955236",
     "email": "jolandaesmaal@hotmail.com",
-    "sinds": "27-10-2020",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "25 juni",
-    "avatar": "jolanda-smaal.png"
+    "clublid": "2020/10/27",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Joop van",
     "achternaam": "Asten",
+    "geboortedag": "10/01",
     "mobiel": "06-53793551",
     "email": "vasten@kpnmail.nl",
-    "sinds": "9-1-1968",
-    "soort": "",
-    "verjaardag": "1 oktober",
-    "avatar": "joop-van-asten.png"
+    "clublid": "1968/01/09",
+    "soort": ""
   },
   {
     "voornaam": "Joost",
     "achternaam": "Boerboom",
+    "geboortedag": "08/27",
     "mobiel": "06-41921002",
     "email": "joostboerboom@gmail.com",
-    "sinds": "11-1-1991",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "27 augustus",
-    "avatar": "joost-boerboom.png"
+    "clublid": "1991/01/11",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Jordy",
     "achternaam": "Croon",
+    "geboortedag": "11/02",
     "mobiel": "06-13271696",
     "email": "jordy.croon@gmail.com",
-    "sinds": "4-9-2022",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "2 november",
-    "avatar": "jordy-croon.png"
+    "clublid": "2022/09/04",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Jorg van",
     "achternaam": "Sluisdam",
+    "geboortedag": "12/03",
     "mobiel": "06-57493976",
     "email": "vansluisdamj@gmail.com",
-    "sinds": "19-11-2021",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "3 december",
-    "avatar": "jorg-van-sluisdam.png"
+    "clublid": "2021/11/19",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Jos",
     "achternaam": "Lempke",
+    "geboortedag": "01/11",
     "mobiel": "06-26795792",
     "email": "jos.lempke@gmail.com",
-    "sinds": "19-8-2021",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "11 januari",
-    "avatar": "jos-lempke.png"
+    "clublid": "2021/08/19",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Jos",
     "achternaam": "Vogel",
+    "geboortedag": "02/04",
     "mobiel": "",
     "email": "josacvogel@gmail.com",
-    "sinds": "9-1-1984",
-    "soort": "Seniorenlid",
-    "verjaardag": "4 februari",
-    "avatar": "jos-vogel.png"
+    "clublid": "1984/01/09",
+    "soort": "Seniorenlid"
   },
   {
     "voornaam": "Justine van der",
     "achternaam": "Weijden",
+    "geboortedag": "07/20",
     "mobiel": "06-81739764",
     "email": "justineweijden@hotmail.com",
-    "sinds": "4-9-2022",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "20 juli",
-    "avatar": "justine-van-der-weijden.png"
+    "clublid": "2022/09/04",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Karla",
     "achternaam": "Helfensteijn",
+    "geboortedag": "06/04",
     "mobiel": "",
     "email": "karla.derooij@tiscali.nl",
-    "sinds": "1-1-1986",
-    "soort": "Zwemlid",
-    "verjaardag": "4 juni",
-    "avatar": "karla-helfensteijn.png"
+    "clublid": "1986/01/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Kate",
     "achternaam": "Peschar",
+    "geboortedag": "01/31",
     "mobiel": "",
     "email": "katepschar@gmail.com",
-    "sinds": "18-3-2019",
-    "soort": "Zwemlid",
-    "verjaardag": "31 januari",
-    "avatar": "kate-peschar.png"
+    "clublid": "2019/03/18",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Kees",
     "achternaam": "Teeuwen",
+    "geboortedag": "02/15",
     "mobiel": "06-51152233",
     "email": "teeweld1952@gmail.com",
-    "sinds": "1-1-1991",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "15 februari",
-    "avatar": "kees-teeuwen.png"
+    "clublid": "1991/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Kick",
     "achternaam": "Zieltjens",
+    "geboortedag": "03/23",
     "mobiel": "06-28180926",
     "email": "zielt50@gmail.com",
-    "sinds": "9-1-1986",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "23 maart",
-    "avatar": "kick-zieltjens.png"
+    "clublid": "1986/01/09",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Kitty",
     "achternaam": "Veltman",
+    "geboortedag": "09/26",
     "mobiel": "06-17186348",
     "email": "kitty.veltman@gmail.com",
-    "sinds": "1-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "26 september",
-    "avatar": "kitty-veltman.png"
+    "clublid": "2008/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ko",
     "achternaam": "Tol",
+    "geboortedag": "03/18",
     "mobiel": "",
     "email": "ktol@wxs.nl",
-    "sinds": "6-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "18 maart",
-    "avatar": "ko-tol.png"
+    "clublid": "2008/01/06",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Koos",
     "achternaam": "Heerink",
+    "geboortedag": "02/25",
     "mobiel": "",
     "email": "koos.heerink@xs4all.nl",
-    "sinds": "9-1-2002",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "25 februari",
-    "avatar": "koos-heerink.png"
+    "clublid": "2002/01/09",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Leo",
     "achternaam": "Baars",
+    "geboortedag": "04/18",
     "mobiel": "06-51209068",
     "email": "info@leobaars.nl",
-    "sinds": "12-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "18 april",
-    "avatar": "leo-baars.png"
+    "clublid": "2008/01/12",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Lia",
     "achternaam": "Bruynes",
+    "geboortedag": "10/03",
     "mobiel": "06-46074812",
     "email": "bruynes1@hotmail.com",
-    "sinds": "18-10-1996",
-    "soort": "Hoofdlid-NOB, Seniorenlid",
-    "verjaardag": "3 oktober",
-    "avatar": "lia-bruynes.png"
+    "clublid": "1996/10/18",
+    "soort": "Hoofdlid-NOB, Seniorenlid"
   },
   {
     "voornaam": "Linda",
     "achternaam": "Cornelissen",
+    "geboortedag": "08/04",
     "mobiel": "",
     "email": "taoling07@gmail.com",
-    "sinds": "1-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "4 augustus",
-    "avatar": "linda-cornelissen.png"
+    "clublid": "2008/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Linda",
     "achternaam": "Raats",
+    "geboortedag": "10/21",
     "mobiel": "06-29502084",
     "email": "lindaraats01@gmail.com",
-    "sinds": "27-2-2015",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "21 oktober",
-    "avatar": "linda-raats.png"
+    "clublid": "2015/02/27",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Lisa",
     "achternaam": "Groot-Olgers",
+    "geboortedag": "03/07",
     "mobiel": "06-52241718",
     "email": "lisa.ol.gr@gmail.com",
-    "sinds": "1-7-2019",
-    "soort": "Zwemlid",
-    "verjaardag": "7 maart",
-    "avatar": "lisa-groot-olgers.png"
+    "clublid": "2019/07/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Loes",
     "achternaam": "Stok",
+    "geboortedag": "10/01",
     "mobiel": "06-20023973",
     "email": "louisestok@hotmail.com",
-    "sinds": "12-1-2011",
-    "soort": "Zwemlid",
-    "verjaardag": "1 oktober",
-    "avatar": "loes-stok.png"
+    "clublid": "2011/01/12",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Manuela",
     "achternaam": "Romih",
+    "geboortedag": "07/20",
     "mobiel": "06-50285490",
     "email": "manuelaromih@hotmail.com",
-    "sinds": "26-11-2021",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "20 juli",
-    "avatar": "manuela-romih.png"
+    "clublid": "2021/11/26",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Marc van",
     "achternaam": "Dormolen",
+    "geboortedag": "03/09",
     "mobiel": "",
     "email": "mmt1@xs4all.nl",
-    "sinds": "10-1-1990",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "9 maart",
-    "avatar": "marc-van-dormolen.png"
+    "clublid": "1990/01/10",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Marcel de",
     "achternaam": "Groot",
+    "geboortedag": "09/06",
     "mobiel": "06-24585097",
     "email": "m.degroot5519@gmail.com",
-    "sinds": "10-1-1978",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "6 september",
-    "avatar": "marcel-de-groot.png"
+    "clublid": "1978/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Marcel",
     "achternaam": "Rem",
+    "geboortedag": "04/08",
     "mobiel": "06-22466581",
     "email": "marcel.rem@wolterskluwer.com",
-    "sinds": "16-8-1996",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "8 april",
-    "avatar": "marcel-rem.png"
+    "clublid": "1996/08/16",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Marcel",
     "achternaam": "Roozekrans",
+    "geboortedag": "04/05",
     "mobiel": "06-45444054",
     "email": "marcel@roozekrans.nl",
-    "sinds": "3-1-2011",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "5 april",
-    "avatar": "marcel-roozekrans.png"
+    "clublid": "2011/01/03",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Marcel van",
     "achternaam": "Goch",
+    "geboortedag": "06/21",
     "mobiel": "06-46561062",
     "email": "mwaavangoch@gmail.com",
-    "sinds": "15-2-2017",
-    "soort": "Zwemlid",
-    "verjaardag": "21 juni",
-    "avatar": "marcel-van-goch.png"
+    "clublid": "2017/02/15",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Marcel van",
     "achternaam": "Greevenbroek",
+    "geboortedag": "12/18",
     "mobiel": "06-11161426",
     "email": "marcelgreef@gmail.com",
-    "sinds": "2-1-2015",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "18 december",
-    "avatar": "marcel-van-greevenbroek.png"
+    "clublid": "2015/01/02",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Marcel van",
     "achternaam": "Houten",
+    "geboortedag": "03/26",
     "mobiel": "",
     "email": "marcelmeel@yahoo.co.uk",
-    "sinds": "9-1-1984",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "26 maart",
-    "avatar": "marcel-van-houten.png"
+    "clublid": "1984/01/09",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Marga van der",
     "achternaam": "Weerdt",
+    "geboortedag": "03/27",
     "mobiel": "06-26312090",
     "email": "vanderweerdtm4@gmail.com",
-    "sinds": "1-12-1998",
-    "soort": "Zwemlid",
-    "verjaardag": "27 maart",
-    "avatar": "marga-van-der-weerdt.png"
+    "clublid": "1998/12/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Marianne",
     "achternaam": "Stolvoort",
+    "geboortedag": "04/25",
     "mobiel": "06-10249567",
     "email": "mc.stolvoort@gmail.com",
-    "sinds": "17-8-1997",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "25 april",
-    "avatar": "marianne-stolvoort.png"
+    "clublid": "1997/08/17",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Marielle",
     "achternaam": "Kuipers",
+    "geboortedag": "10/24",
     "mobiel": "",
     "email": "jelkuipers@yahoo.com",
-    "sinds": "15-9-2006",
-    "soort": "Zwemlid",
-    "verjaardag": "24 oktober",
-    "avatar": "marielle-kuipers.png"
+    "clublid": "2006/09/15",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Marina",
     "achternaam": "Serné",
+    "geboortedag": "03/18",
     "mobiel": "",
     "email": "marina.serne@gmail.com",
-    "sinds": "11-9-2000",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "18 maart",
-    "avatar": "marina-serné.png"
+    "clublid": "2000/09/11",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Marion",
     "achternaam": "Kieft",
+    "geboortedag": "04/29",
     "mobiel": "06-15616433",
     "email": "marion.kieft@hetnet.nl",
-    "sinds": "10-1-1990",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "29 april",
-    "avatar": "marion-kieft.png"
+    "clublid": "1990/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Mariska",
     "achternaam": "Janszen",
+    "geboortedag": "10/30",
     "mobiel": "06-22119335",
     "email": "mariska2674@yahoo.com",
-    "sinds": "11-1-2014",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "30 oktober",
-    "avatar": "mariska-janszen.png"
+    "clublid": "2014/01/11",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Mariska",
     "achternaam": "Lechner",
+    "geboortedag": "11/15",
     "mobiel": "06-15354215",
     "email": "mariskalechner@gmail.com",
-    "sinds": "1-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "15 november",
-    "avatar": "mariska-lechner.png"
+    "clublid": "2008/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Marja",
     "achternaam": "Boerboom-van Elferen",
+    "geboortedag": "03/24",
     "mobiel": "06-40440330",
     "email": "marjavanelferen@hotmail.com",
-    "sinds": "11-1-1988",
-    "soort": "Seniorenlid",
-    "verjaardag": "24 maart",
-    "avatar": "marja-boerboom-van-elferen.png"
+    "clublid": "1988/01/11",
+    "soort": "Seniorenlid"
   },
   {
     "voornaam": "Martijn",
     "achternaam": "Hendriks",
+    "geboortedag": "04/03",
     "mobiel": "06-24209000",
     "email": "hendriksmartijn34@hotmail.com",
-    "sinds": "2-1-2015",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "3 april",
-    "avatar": "martijn-hendriks.png"
+    "clublid": "2015/01/02",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Martijn",
     "achternaam": "Thijssen",
+    "geboortedag": "03/08",
     "mobiel": "06-47143345",
     "email": "martijnthijssen8@gmail.com",
-    "sinds": "12-1-2011",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "8 maart",
-    "avatar": "martijn-thijssen.png"
+    "clublid": "2011/01/12",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Martin",
     "achternaam": "Kuipers",
+    "geboortedag": "11/24",
     "mobiel": "06-54630920",
     "email": "m.kuipers@apk-schipholrijk.nl",
-    "sinds": "25-4-2000",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "24 november",
-    "avatar": "martin-kuipers.png"
+    "clublid": "2000/04/25",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Martin",
     "achternaam": "Schenk",
+    "geboortedag": "10/10",
     "mobiel": "06-43050490",
     "email": "m_c_schenk@hotmail.com",
-    "sinds": "28-12-2021",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "10 oktober",
-    "avatar": "martin-schenk.png"
+    "clublid": "2021/12/28",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Marvin",
     "achternaam": "Celie",
+    "geboortedag": "08/23",
     "mobiel": "06-24918752",
     "email": "marvin.celie@casema.nl",
-    "sinds": "15-11-2013",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "23 augustus",
-    "avatar": "marvin-celie.png"
+    "clublid": "2013/11/15",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Matthijs",
     "achternaam": "Delemarre",
+    "geboortedag": "08/21",
     "mobiel": "06-17885712",
     "email": "mfmdelemarre@ziggo.nl",
-    "sinds": "7-7-2021",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "21 augustus",
-    "avatar": "matthijs-delemarre.png"
+    "clublid": "2021/07/07",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Max van",
     "achternaam": "Leeuwen",
+    "geboortedag": "03/30",
     "mobiel": "06-44383918",
     "email": "mavale68@hotmail.com",
-    "sinds": "27-1-2022",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "30 maart",
-    "avatar": "max-van-leeuwen.png"
+    "clublid": "2022/01/27",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Menno",
     "achternaam": "Rebergen",
+    "geboortedag": "03/28",
     "mobiel": "06-55764010",
     "email": "mgrebergen@hotmail.nl",
-    "sinds": "15-1-2011",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "28 maart",
-    "avatar": "menno-rebergen.png"
+    "clublid": "2011/01/15",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Mink",
     "achternaam": "Roozekrans",
+    "geboortedag": "02/27",
     "mobiel": "06-45444054",
     "email": "marcel@roozekrans.nl",
-    "sinds": "15-3-2018",
-    "soort": "Zwemlid",
-    "verjaardag": "27 februari",
-    "avatar": "mink-roozekrans.png"
+    "clublid": "2018/03/15",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Minou",
     "achternaam": "Kuipers",
+    "geboortedag": "10/21",
     "mobiel": "06-54630920",
     "email": "",
-    "sinds": "15-10-2018",
-    "soort": "Zwemlid",
-    "verjaardag": "21 oktober",
-    "avatar": "minou-kuipers.png"
+    "clublid": "2018/10/15",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Nico de",
     "achternaam": "Boer",
+    "geboortedag": "04/11",
     "mobiel": "",
     "email": "n.j.a.de.boer@hccnet.nl",
-    "sinds": "9-3-1972",
-    "soort": "Seniorenlid",
-    "verjaardag": "11 april",
-    "avatar": "nico-de-boer.png"
+    "clublid": "1972/03/09",
+    "soort": "Seniorenlid"
   },
   {
     "voornaam": "Nico",
     "achternaam": "Molenaar",
+    "geboortedag": "11/23",
     "mobiel": "06-29007663",
     "email": "matthijsm85@gmail.com",
-    "sinds": "10-1-1990",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "23 november",
-    "avatar": "nico-molenaar.png"
+    "clublid": "1990/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Nico",
     "achternaam": "Verhoek",
+    "geboortedag": "04/24",
     "mobiel": "06-77435374",
     "email": "nico.tecdiving@gmail.com",
-    "sinds": "6-1-2017",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "24 april",
-    "avatar": "nico-verhoek.png"
+    "clublid": "2017/01/06",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Nikki",
     "achternaam": "Kuipers",
+    "geboortedag": "06/23",
     "mobiel": "",
     "email": "f.kuipers@lijbrandt.nl",
-    "sinds": "1-1-2014",
-    "soort": "Zwemlid",
-    "verjaardag": "23 juni",
-    "avatar": "nikki-kuipers.png"
+    "clublid": "2014/01/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Nout",
     "achternaam": "Kors",
+    "geboortedag": "06/01",
     "mobiel": "06-34782972",
     "email": "noutcbr600@gmail.com",
-    "sinds": "11-1-2014",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "1 juni",
-    "avatar": "nout-kors.png"
+    "clublid": "2014/01/11",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Patricia",
     "achternaam": "Diek-Cremer",
+    "geboortedag": "02/04",
     "mobiel": "06-48370632",
     "email": "gp.diek@quicknet.nl",
-    "sinds": "12-8-1979",
-    "soort": "Seniorenlid",
-    "verjaardag": "4 februari",
-    "avatar": "patricia-diek-cremer.png"
+    "clublid": "1979/08/12",
+    "soort": "Seniorenlid"
   },
   {
     "voornaam": "Patricia van",
     "achternaam": "Mourik",
+    "geboortedag": "05/18",
     "mobiel": "06-42167056",
     "email": "pvan_mourik@hotmail.com",
-    "sinds": "3-1-2011",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "18 mei",
-    "avatar": "patricia-van-mourik.png"
+    "clublid": "2011/01/03",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Paul",
     "achternaam": "Diek",
+    "geboortedag": "03/13",
     "mobiel": "06-48379182",
     "email": "gp.diek@quicknet.nl",
-    "sinds": "22-9-1977",
-    "soort": "Hoofdlid-Niet NOB",
-    "verjaardag": "13 maart",
-    "avatar": "paul-diek.png"
+    "clublid": "1977/09/22",
+    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Paul van der",
     "achternaam": "Zwan",
+    "geboortedag": "06/02",
     "mobiel": "06-45292300",
     "email": "ovh@vanderzwan.org",
-    "sinds": "8-2-2018",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "2 juni",
-    "avatar": "paul-van-der-zwan.png"
+    "clublid": "2018/02/08",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Paula",
     "achternaam": "Rem",
+    "geboortedag": "08/24",
     "mobiel": "",
     "email": "marcel.rem@wolterskluwer.com",
-    "sinds": "1-1-2009",
-    "soort": "Zwemlid",
-    "verjaardag": "24 augustus",
-    "avatar": "paula-rem.png"
+    "clublid": "2009/01/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Pauline op de",
     "achternaam": "Kelder",
+    "geboortedag": "09/27",
     "mobiel": "06-50942963",
     "email": "paulineopdekelder@hotmail.com",
-    "sinds": "9-1-2006",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "27 september",
-    "avatar": "pauline-op-de-kelder.png"
+    "clublid": "2006/01/09",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Peter den",
     "achternaam": "Boer",
+    "geboortedag": "12/25",
     "mobiel": "",
     "email": "pljdenboer@gmail.com",
-    "sinds": "2-4-1993",
-    "soort": "Seniorenlid",
-    "verjaardag": "25 december",
-    "avatar": "peter-den-boer.png"
+    "clublid": "1993/04/02",
+    "soort": "Seniorenlid"
   },
   {
     "voornaam": "Peter",
     "achternaam": "Enneking",
+    "geboortedag": "09/09",
     "mobiel": "06-13144273",
     "email": "peter_enneking@yahoo.com",
-    "sinds": "1-1-1991",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "9 september",
-    "avatar": "peter-enneking.png"
+    "clublid": "1991/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Peter",
     "achternaam": "Knoops",
+    "geboortedag": "11/18",
     "mobiel": "06-52565912",
     "email": "pbtknoops@gmail.com",
-    "sinds": "21-11-2019",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "18 november",
-    "avatar": "peter-knoops.png"
+    "clublid": "2019/11/21",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Peter",
     "achternaam": "Schoonheim",
+    "geboortedag": "05/25",
     "mobiel": "06-52572099",
     "email": "schoonheim.peter@gmail.com",
-    "sinds": "10-1-1990",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "25 mei",
-    "avatar": "peter-schoonheim.png"
+    "clublid": "1990/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Peter",
     "achternaam": "Wesselink",
+    "geboortedag": "03/19",
     "mobiel": "",
     "email": "pwesselink@xs4all.nl",
-    "sinds": "24-4-1994",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "19 maart",
-    "avatar": "peter-wesselink.png"
+    "clublid": "1994/04/24",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Phea",
     "achternaam": "Vrijdag",
+    "geboortedag": "07/19",
     "mobiel": "06-11060388",
     "email": "phea_vrijdag@hotmail.com",
-    "sinds": "1-1-1997",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "19 juli",
-    "avatar": "phea-vrijdag.png"
+    "clublid": "1997/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Piet",
     "achternaam": "Hageman",
+    "geboortedag": "08/17",
     "mobiel": "06-46338362",
     "email": "paghageman0@gmail.com",
-    "sinds": "9-6-1980",
-    "soort": "Seniorenlid",
-    "verjaardag": "17 augustus",
-    "avatar": "piet-hageman.png"
+    "clublid": "1980/06/09",
+    "soort": "Seniorenlid"
   },
   {
     "voornaam": "Piet",
     "achternaam": "Lammerse",
+    "geboortedag": "09/25",
     "mobiel": "06-51108722",
     "email": "p.h.lammerse@gmail.com",
-    "sinds": "10-1-1985",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "25 september",
-    "avatar": "piet-lammerse.png"
+    "clublid": "1985/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Pieter",
     "achternaam": "Brem",
+    "geboortedag": "12/27",
     "mobiel": "06-26136439",
     "email": "brem@freedom.nl",
-    "sinds": "10-1-2002",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "27 december",
-    "avatar": "pieter-brem.png"
+    "clublid": "2002/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Pim",
     "achternaam": "Kuipers",
+    "geboortedag": "06/08",
     "mobiel": "06-54630920",
     "email": "",
-    "sinds": "15-10-2018",
-    "soort": "Zwemlid",
-    "verjaardag": "8 juni",
-    "avatar": "pim-kuipers.png"
+    "clublid": "2018/10/15",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Ralph de",
     "achternaam": "Wit",
+    "geboortedag": "11/23",
     "mobiel": "06-55707542",
     "email": "ralph.dewit@kpnmail.nl",
-    "sinds": "1-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "23 november",
-    "avatar": "ralph-de-wit.png"
+    "clublid": "2008/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Remko de",
     "achternaam": "Vries",
+    "geboortedag": "09/30",
     "mobiel": "06-20864510",
     "email": "reman@quicknet.nl",
-    "sinds": "1-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "30 september",
-    "avatar": "remko-de-vries.png"
+    "clublid": "2008/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ria van",
     "achternaam": "Leeuwen",
+    "geboortedag": "12/11",
     "mobiel": "",
     "email": "riabussing@hotmail.com",
-    "sinds": "1-1-2008",
-    "soort": "Zwemlid",
-    "verjaardag": "11 december",
-    "avatar": "ria-van-leeuwen.png"
+    "clublid": "2008/01/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Rien",
     "achternaam": "Boterman",
+    "geboortedag": "10/29",
     "mobiel": "06-15383153",
     "email": "post@boterman.nl",
-    "sinds": "7-7-2021",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "29 oktober",
-    "avatar": "rien-boterman.png"
+    "clublid": "2021/07/07",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Rob",
     "achternaam": "Prikker",
+    "geboortedag": "05/27",
     "mobiel": "",
     "email": "rjprikker@gmail.com",
-    "sinds": "10-1-1973",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "27 mei",
-    "avatar": "rob-prikker.png"
+    "clublid": "1973/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Robert de",
     "achternaam": "Jong",
+    "geboortedag": "08/19",
     "mobiel": "06-41789251",
     "email": "robdejong407@gmail.com",
-    "sinds": "21-10-2010",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "19 augustus",
-    "avatar": "robert-de-jong.png"
+    "clublid": "2010/10/21",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Robert",
     "achternaam": "Groot",
+    "geboortedag": "04/17",
     "mobiel": "06-49882647",
     "email": "dhr.grr@gmail.com",
-    "sinds": "10-5-2014",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "17 april",
-    "avatar": "robert-groot.png"
+    "clublid": "2014/05/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Robert",
     "achternaam": "Jacobs",
+    "geboortedag": "07/01",
     "mobiel": "06-49735162",
     "email": "robcisca@telfort.nl",
-    "sinds": "10-1-1987",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "1 juli",
-    "avatar": "robert-jacobs.png"
+    "clublid": "1987/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Robin",
     "achternaam": "Hoole",
+    "geboortedag": "11/13",
     "mobiel": "06-38919860",
     "email": "r.hoole@hotmail.com",
-    "sinds": "15-8-2006",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "13 november",
-    "avatar": "robin-hoole.png"
+    "clublid": "2006/08/15",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Robin",
     "achternaam": "Postma",
+    "geboortedag": "10/16",
     "mobiel": "06-83716703",
     "email": "robin-postma@outlook.com",
-    "sinds": "13-1-2020",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "16 oktober",
-    "avatar": "robin-postma.png"
+    "clublid": "2020/01/13",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Roel",
     "achternaam": "Mallens",
+    "geboortedag": "07/20",
     "mobiel": "06-14479220",
     "email": "rmallens@xs4all.nl",
-    "sinds": "9-12-1997",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "20 juli",
-    "avatar": "roel-mallens.png"
+    "clublid": "1997/12/09",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ron",
     "achternaam": "Engeler",
+    "geboortedag": "04/20",
     "mobiel": "06-50694231",
     "email": "ron.engeler@jci.com",
-    "sinds": "18-10-1998",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "20 april",
-    "avatar": "ron-engeler.png"
+    "clublid": "1998/10/18",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ron",
     "achternaam": "Jansen",
+    "geboortedag": "09/10",
     "mobiel": "06-55833443",
     "email": "jansenrc@xs4all.nl",
-    "sinds": "1-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "10 september",
-    "avatar": "ron-jansen.png"
+    "clublid": "2008/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ron",
     "achternaam": "Jonk",
+    "geboortedag": "02/28",
     "mobiel": "06-24636063",
     "email": "ovh@frontendplace.nl",
-    "sinds": "1-1-2008",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "28 februari",
-    "avatar": "ron-jonk.png"
+    "clublid": "2008/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ronald de",
     "achternaam": "Boer",
+    "geboortedag": "08/31",
     "mobiel": "06-53327102",
     "email": "info@deboermontage.nl",
-    "sinds": "18-10-1998",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "31 augustus",
-    "avatar": "ronald-de-boer.png"
+    "clublid": "1998/10/18",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ronald",
     "achternaam": "Sminia",
+    "geboortedag": "03/22",
     "mobiel": "06-24575776",
     "email": "ronald.francis@telfort.nl",
-    "sinds": "1-1-2004",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "22 maart",
-    "avatar": "ronald-sminia.png"
+    "clublid": "2004/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ronnie",
     "achternaam": "Allebrandi",
+    "geboortedag": "11/26",
     "mobiel": "06-30117619",
     "email": "r.allebrandi@planet.nl",
-    "sinds": "23-10-2020",
-    "soort": "Zwemlid",
-    "verjaardag": "26 november",
-    "avatar": "ronnie-allebrandi.png"
+    "clublid": "2020/10/23",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Ruud",
     "achternaam": "Leijtens",
+    "geboortedag": "07/27",
     "mobiel": "06-13471463",
     "email": "leijtensr@planet.nl",
-    "sinds": "10-1-1993",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "27 juli",
-    "avatar": "ruud-leijtens.png"
+    "clublid": "1993/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ryan",
     "achternaam": "Ploeger",
+    "geboortedag": "08/04",
     "mobiel": "06-27076766",
     "email": "ryan_keeper@hotmail.com",
-    "sinds": "3-1-2020",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "4 augustus",
-    "avatar": "ryan-ploeger.png"
+    "clublid": "2020/01/03",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Saar",
     "achternaam": "Roozekrans",
+    "geboortedag": "06/13",
     "mobiel": "06-45444054",
     "email": "marcel@roozekrans.nl",
-    "sinds": "1-1-2022",
-    "soort": "Zwemlid",
-    "verjaardag": "13 juni",
-    "avatar": "saar-roozekrans.png"
+    "clublid": "2022/01/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Sander",
     "achternaam": "Hahn",
+    "geboortedag": "06/09",
     "mobiel": "06-14211335",
     "email": "sanderhahn@gmail.com",
-    "sinds": "1-1-2015",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "9 juni",
-    "avatar": "sander-hahn.png"
+    "clublid": "2015/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Sander",
     "achternaam": "Kooijman",
+    "geboortedag": "06/22",
     "mobiel": "06-57577200",
     "email": "skooijman1982@gmail.com",
-    "sinds": "29-10-2015",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "22 juni",
-    "avatar": "sander-kooijman.png"
+    "clublid": "2015/10/29",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Sascha",
     "achternaam": "Groot",
+    "geboortedag": "10/31",
     "mobiel": "06-37578318",
     "email": "sascha.groot.mail@gmail.com",
-    "sinds": "18-5-2017",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "31 oktober",
-    "avatar": "sascha-groot.png"
+    "clublid": "2017/05/18",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Saskia",
     "achternaam": "Brem",
+    "geboortedag": "08/10",
     "mobiel": "06-24630638",
     "email": "suskiab@hotmail.com",
-    "sinds": "10-1-2002",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "10 augustus",
-    "avatar": "saskia-brem.png"
+    "clublid": "2002/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Saskia",
     "achternaam": "Rem",
+    "geboortedag": "07/07",
     "mobiel": "",
     "email": "marcel.rem@wolterskluwer.com",
-    "sinds": "1-1-2009",
-    "soort": "Zwemlid",
-    "verjaardag": "7 juli",
-    "avatar": "saskia-rem.png"
+    "clublid": "2009/01/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Sijtze",
     "achternaam": "Visser",
+    "geboortedag": "03/16",
     "mobiel": "06-57316828",
     "email": "s.visser20@chello.nl",
-    "sinds": "30-9-1998",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "16 maart",
-    "avatar": "sijtze-visser.png"
+    "clublid": "1998/09/30",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Sjoerd",
     "achternaam": "Andela",
+    "geboortedag": "06/28",
     "mobiel": "06-42152463",
     "email": "symandela.sa@gmail.com",
-    "sinds": "25-9-1980",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "28 juni",
-    "avatar": "sjoerd-andela.png"
+    "clublid": "1980/09/25",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Tess",
     "achternaam": "Hoole",
+    "geboortedag": "01/03",
     "mobiel": "06-16138340",
     "email": "priscametz@gmail.com",
-    "sinds": "13-1-2019",
-    "soort": "Zwemlid",
-    "verjaardag": "3 januari",
-    "avatar": "tess-hoole.png"
+    "clublid": "2019/01/13",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Thea de",
     "achternaam": "Graaf-Vrolijk",
+    "geboortedag": "04/25",
     "mobiel": "06-27256191",
     "email": "theadegraafvrolijk@gmail.com",
-    "sinds": "23-8-2000",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "25 april",
-    "avatar": "thea-de-graaf-vrolijk.png"
+    "clublid": "2000/08/23",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Ton",
     "achternaam": "Rutten",
+    "geboortedag": "08/18",
     "mobiel": "06-54658455",
     "email": "forcipiger@xs4all.nl",
-    "sinds": "10-10-1995",
-    "soort": "Seniorenlid",
-    "verjaardag": "18 augustus",
-    "avatar": "ton-rutten.png"
+    "clublid": "1995/10/10",
+    "soort": "Seniorenlid"
   },
   {
     "voornaam": "Willem van de",
     "achternaam": "Klok",
+    "geboortedag": "07/20",
     "mobiel": "06-53831494",
     "email": "willemvandeklok@outlook.com",
-    "sinds": "7-1-2004",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "20 juli",
-    "avatar": "willem-van-de-klok.png"
+    "clublid": "2004/01/07",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Willem van",
     "achternaam": "Pieterson",
+    "geboortedag": "12/07",
     "mobiel": "",
     "email": "wimvanpieterson@hotmail.com",
-    "sinds": "3-1-2003",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "7 december",
-    "avatar": "willem-van-pieterson.png"
+    "clublid": "2003/01/03",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Willemijn",
     "achternaam": "Botman",
+    "geboortedag": "03/01",
     "mobiel": "",
     "email": "willemijn.botman@gmail.com",
-    "sinds": "1-1-2001",
-    "soort": "Zwemlid",
-    "verjaardag": "1 maart",
-    "avatar": "willemijn-botman.png"
+    "clublid": "2001/01/01",
+    "soort": "Zwemlid"
   },
   {
     "voornaam": "Wim",
     "achternaam": "Smaal",
+    "geboortedag": "01/18",
     "mobiel": "06-10475747",
     "email": "wimmsx@gmail.com",
-    "sinds": "6-1-1984",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "18 januari",
-    "avatar": "wim-smaal.png"
+    "clublid": "1984/01/06",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Wouter de",
     "achternaam": "Groot",
+    "geboortedag": "04/21",
     "mobiel": "06-31643245",
     "email": "p.grootbooms@upcmail.nl",
-    "sinds": "10-1-1993",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "21 april",
-    "avatar": "wouter-de-groot.png"
+    "clublid": "1993/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Wouter",
     "achternaam": "Geurtsen",
+    "geboortedag": "09/07",
     "mobiel": "06-27272710",
     "email": "w.geurtsen@planet.nl",
-    "sinds": "10-1-2007",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "7 september",
-    "avatar": "wouter-geurtsen.png"
+    "clublid": "2007/01/10",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Wouter van",
     "achternaam": "Deursen",
+    "geboortedag": "11/10",
     "mobiel": "06-51524851",
     "email": "wouter.van.deursen@gmail.com",
-    "sinds": "20-7-1997",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "10 november",
-    "avatar": "wouter-van-deursen.png"
+    "clublid": "1997/07/20",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Yvette de",
     "achternaam": "Smidt",
+    "geboortedag": "12/01",
     "mobiel": "06-55087902",
     "email": "yvette.de.smidt@gmail.com",
-    "sinds": "21-11-2019",
-    "soort": "Hoofdlid-NOB",
-    "verjaardag": "1 december",
-    "avatar": "yvette-de-smidt.png"
+    "clublid": "2019/11/21",
+    "soort": "Hoofdlid-NOB"
   }
 ]
