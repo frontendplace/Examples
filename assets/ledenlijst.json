@@ -630,6 +630,15 @@
     "soort": "Hoofdlid-Niet NOB"
   },
   {
+    "voornaam": "Hassan",
+    "achternaam": "El Haddad",
+    "geboortedag": "03/29",
+    "mobiel": "00614963650",
+    "email": "haddad84@hotmail.com",
+    "clublid": "2023/09/15",
+    "soort": "Hoofdlid-NOB"
+  },
+  {
     "voornaam": "Henk",
     "achternaam": "Seeder",
     "geboortedag": "05/14",
@@ -954,15 +963,6 @@
     "soort": "Zwemlid"
   },
   {
-    "voornaam": "Manuela",
-    "achternaam": "Romih",
-    "geboortedag": "07/20",
-    "mobiel": "06-50285490",
-    "email": "manuelaromih@hotmail.com",
-    "clublid": "2021/11/26",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
     "voornaam": "Marc van",
     "achternaam": "Dormolen",
     "geboortedag": "03/09",
@@ -1059,6 +1059,15 @@
     "mobiel": "",
     "email": "marina.serne@gmail.com",
     "clublid": "2000/09/11",
+    "soort": "Hoofdlid-NOB"
+  },
+  {
+    "voornaam": "Marije",
+    "achternaam": "Donk van",
+    "geboortedag": "05/17",
+    "mobiel": "",
+    "email": "marije@vandonk.net",
+    "clublid": "2023/09/20",
     "soort": "Hoofdlid-NOB"
   },
   {
@@ -1631,10 +1640,10 @@
   {
     "voornaam": "Thijs",
     "achternaam": "Nootenboom",
-    "mobiel": "",
-    "email": "hanshoole@hotmail.com",
-    "geboortedag": "01/01",
-    "sinds": "1900/01/01",
+    "mobiel": "06-28104572",
+    "email": "brendahoole@hotmail.com",
+    "geboortedag": "08/31",
+    "sinds": "2014/11/01",
     "soort": "Zwemlid"
   },
   {
