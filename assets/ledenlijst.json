@@ -27,15 +27,6 @@
     "soort": "Hoofdlid-NOB"
   },
   {
-    "voornaam": "Amanda",
-    "achternaam": "Hageman",
-    "geboortedag": "09/26",
-    "mobiel": "06-43153366",
-    "email": "hageman.amanda@gmail.com",
-    "clublid": "2013/09/19",
-    "soort": "Zwemlid"
-  },
-  {
     "voornaam": "Anne",
     "achternaam": "Bekema",
     "geboortedag": "03/27",
@@ -117,15 +108,6 @@
     "soort": "Hoofdlid-NOB"
   },
   {
-    "voornaam": "Beau",
-    "achternaam": "Plaizier",
-    "geboortedag": "08/11",
-    "mobiel": "06-83839144",
-    "email": "beau.plaizier1@gmail.com",
-    "clublid": "2022/01/27",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
     "voornaam": "Ben",
     "achternaam": "Langeveld",
     "geboortedag": "03/21",
@@ -150,15 +132,6 @@
     "mobiel": "06-24872702",
     "email": "frankedith@hetnet.nl",
     "clublid": "2015/08/21",
-    "soort": "Zwemlid"
-  },
-  {
-    "voornaam": "Betty",
-    "achternaam": "Hageman",
-    "geboortedag": "09/12",
-    "mobiel": "06-46338362",
-    "email": "paghageman0@gmail.com",
-    "clublid": "2015/01/10",
     "soort": "Zwemlid"
   },
   {
@@ -249,15 +222,6 @@
     "mobiel": "06-46427568",
     "email": "cvdnieuwendijk@jelima.nl",
     "clublid": "2011/01/06",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Daan de",
-    "achternaam": "Ruig",
-    "geboortedag": "05/05",
-    "mobiel": "06-48512229",
-    "email": "daanjacobderuig@gmail.com",
-    "clublid": "2020/01/03",
     "soort": "Hoofdlid-NOB"
   },
   {
@@ -540,15 +504,6 @@
     "soort": "Hoofdlid-NOB"
   },
   {
-    "voornaam": "Hanky",
-    "achternaam": "Stolvoort-Ris",
-    "geboortedag": "07/13",
-    "mobiel": "",
-    "email": "hanky.ris@planet.nl",
-    "clublid": "1987/11/01",
-    "soort": "Zwemlid"
-  },
-  {
     "voornaam": "Hannah de",
     "achternaam": "Wit",
     "geboortedag": "07/06",
@@ -612,15 +567,6 @@
     "soort": "Hoofdlid-Niet NOB"
   },
   {
-    "voornaam": "Hans van",
-    "achternaam": "Zijtveld",
-    "geboortedag": "06/25",
-    "mobiel": "",
-    "email": "hvanzijtveld@hotmail.com",
-    "clublid": "2006/09/15",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
     "voornaam": "Harm de",
     "achternaam": "Wit",
     "geboortedag": "09/30",
@@ -633,7 +579,7 @@
     "voornaam": "Hassan",
     "achternaam": "El Haddad",
     "geboortedag": "03/29",
-    "mobiel": "00614963650",
+    "mobiel": "06-14963650",
     "email": "haddad84@hotmail.com",
     "clublid": "2023/09/15",
     "soort": "Hoofdlid-NOB"
@@ -684,6 +630,15 @@
     "soort": "Zwemlid"
   },
   {
+    "voornaam": "Isabelle",
+    "achternaam": "Dethmers",
+    "geboortedag": "03/25",
+    "mobiel": "06-31767205",
+    "email": "isabelledethmers@gmail.com",
+    "clublid": "2024/01/01",
+    "soort": "Hoofdlid-NOB"
+  },
+  {
     "voornaam": "Jan",
     "achternaam": "Gerver",
     "geboortedag": "06/06",
@@ -711,15 +666,6 @@
     "soort": "Hoofdlid-NOB"
   },
   {
-    "voornaam": "Jarno van",
-    "achternaam": "Leeuwen",
-    "geboortedag": "01/18",
-    "mobiel": "06-82690461",
-    "email": "jarno.vl1801@gmail.com",
-    "clublid": "2022/01/27",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
     "voornaam": "Jeanette",
     "achternaam": "Zieltjens-de Kort",
     "geboortedag": "01/30",
@@ -744,15 +690,6 @@
     "mobiel": "06-18992418",
     "email": "jeroen2day@gmail.com",
     "clublid": "2020/01/03",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Jeroen",
-    "achternaam": "Tromp",
-    "geboortedag": "07/25",
-    "mobiel": "06-47318910",
-    "email": "jeroentromp@ziggo.nl",
-    "clublid": "2019/01/17",
     "soort": "Hoofdlid-NOB"
   },
   {
@@ -801,48 +738,12 @@
     "soort": "Hoofdlid-NOB"
   },
   {
-    "voornaam": "Jordy",
-    "achternaam": "Croon",
-    "geboortedag": "11/02",
-    "mobiel": "06-13271696",
-    "email": "jordy.croon@gmail.com",
-    "clublid": "2022/09/04",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Jorg van",
-    "achternaam": "Sluisdam",
-    "geboortedag": "12/03",
-    "mobiel": "06-57493976",
-    "email": "vansluisdamj@gmail.com",
-    "clublid": "2021/11/19",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
     "voornaam": "Jos",
     "achternaam": "Lempke",
     "geboortedag": "01/11",
     "mobiel": "06-26795792",
     "email": "jos.lempke@gmail.com",
     "clublid": "2021/08/19",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Jos",
-    "achternaam": "Vogel",
-    "geboortedag": "02/04",
-    "mobiel": "",
-    "email": "josacvogel@gmail.com",
-    "clublid": "1984/09/01",
-    "soort": "Seniorenlid"
-  },
-  {
-    "voornaam": "Justine van der",
-    "achternaam": "Weijden",
-    "geboortedag": "07/20",
-    "mobiel": "06-81739764",
-    "email": "justineweijden@hotmail.com",
-    "clublid": "2022/09/04",
     "soort": "Hoofdlid-NOB"
   },
   {
@@ -1000,15 +901,6 @@
   },
   {
     "voornaam": "Marcel van",
-    "achternaam": "Goch",
-    "geboortedag": "06/21",
-    "mobiel": "06-46561062",
-    "email": "mwaavangoch@gmail.com",
-    "clublid": "2017/02/15",
-    "soort": "Zwemlid"
-  },
-  {
-    "voornaam": "Marcel van",
     "achternaam": "Greevenbroek",
     "geboortedag": "12/18",
     "mobiel": "06-11161426",
@@ -1062,8 +954,8 @@
     "soort": "Hoofdlid-NOB"
   },
   {
-    "voornaam": "Marije",
-    "achternaam": "Donk van",
+    "voornaam": "Marije van",
+    "achternaam": "Donk",
     "geboortedag": "05/17",
     "mobiel": "",
     "email": "marije@vandonk.net",
@@ -1107,6 +999,16 @@
     "soort": "Seniorenlid"
   },
   {
+    "voornaam": "Mark",
+    "achternaam": "Ploeger",
+    "geboortedag": "08/29",
+    "mobiel": "06-24858214",
+    "email": "mark.ploeger01@gmail.com",
+    "clublid": "2023/08/18",
+    "soort": "Hoofdlid-NOB"
+  },
+
+  {
     "voornaam": "Martijn",
     "achternaam": "Hendriks",
     "geboortedag": "04/03",
@@ -1149,24 +1051,6 @@
     "mobiel": "06-24918752",
     "email": "marvin.celie@casema.nl",
     "clublid": "2013/11/15",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Matthijs",
-    "achternaam": "Delemarre",
-    "geboortedag": "08/21",
-    "mobiel": "06-17885712",
-    "email": "mfmdelemarre@ziggo.nl",
-    "clublid": "2021/07/07",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Max van",
-    "achternaam": "Leeuwen",
-    "geboortedag": "03/30",
-    "mobiel": "06-44383918",
-    "email": "mavale68@hotmail.com",
-    "clublid": "2022/01/27",
     "soort": "Hoofdlid-NOB"
   },
   {
@@ -1302,15 +1186,6 @@
     "mobiel": "06-13144273",
     "email": "peter_enneking@yahoo.com",
     "clublid": "1982/01/01",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Peter",
-    "achternaam": "Knoops",
-    "geboortedag": "11/18",
-    "mobiel": "06-52565912",
-    "email": "pbtknoops@gmail.com",
-    "clublid": "2019/11/21",
     "soort": "Hoofdlid-NOB"
   },
   {
@@ -1458,15 +1333,6 @@
     "soort": "Hoofdlid-NOB"
   },
   {
-    "voornaam": "Robin",
-    "achternaam": "Postma",
-    "geboortedag": "10/16",
-    "mobiel": "06-83716703",
-    "email": "robin-postma@outlook.com",
-    "clublid": "2020/01/13",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
     "voornaam": "Roel",
     "achternaam": "Mallens",
     "geboortedag": "07/20",
@@ -1536,15 +1402,6 @@
     "mobiel": "06-13471463",
     "email": "leijtensr@planet.nl",
     "clublid": "1993/10/01",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Ryan",
-    "achternaam": "Ploeger",
-    "geboortedag": "08/04",
-    "mobiel": "06-27076766",
-    "email": "ryan_keeper@hotmail.com",
-    "clublid": "2020/03/01",
     "soort": "Hoofdlid-NOB"
   },
   {
@@ -1647,13 +1504,13 @@
     "soort": "Zwemlid"
   },
   {
-    "voornaam": "Ton",
-    "achternaam": "Rutten",
-    "geboortedag": "08/18",
-    "mobiel": "06-54658455",
-    "email": "forcipiger@xs4all.nl",
-    "clublid": "1995/10/10",
-    "soort": "Seniorenlid"
+    "voornaam": "Trudy de",
+    "achternaam": "Boer",
+    "mobiel": "06-28104572",
+    "email": "trudy.de.boer@planet.nl",
+    "geboortedag": "04/18",
+    "sinds": "2024/01/01",
+    "soort": "Hoofdlid-NOB"
   },
   {
     "voornaam": "Vincent Ewout",
