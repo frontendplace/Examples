@@ -9,15 +9,6 @@
     "soort": "Hoofdlid-NOB"
   },
   {
-    "voornaam": "Alice",
-    "achternaam": "Neet",
-    "geboortedag": "05/25",
-    "mobiel": "06-22087527",
-    "email": "alicelouiseneet@gmail.com",
-    "clublid": "2022/02/18",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
     "voornaam": "Almar",
     "achternaam": "Uilenbroek",
     "geboortedag": "07/13",
@@ -126,15 +117,6 @@
     "soort": "Zwemlid"
   },
   {
-    "voornaam": "Bente",
-    "achternaam": "Kors",
-    "geboortedag": "08/21",
-    "mobiel": "06-24872702",
-    "email": "frankedith@hetnet.nl",
-    "clublid": "2015/08/21",
-    "soort": "Zwemlid"
-  },
-  {
     "voornaam": "Betty",
     "achternaam": "Schouten",
     "geboortedag": "09/11",
@@ -195,15 +177,6 @@
     "mobiel": "06-10941619",
     "email": "cdh79@caiway.nl",
     "clublid": "2015/10/29",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Cian",
-    "achternaam": "Palmer",
-    "geboortedag": "05/19",
-    "mobiel": "06-15379723",
-    "email": "cianpalmer10@gmail.com",
-    "clublid": "2021/10/08",
     "soort": "Hoofdlid-NOB"
   },
   {
@@ -288,15 +261,6 @@
     "soort": "Seniorenlid"
   },
   {
-    "voornaam": "Edith van",
-    "achternaam": "Leerdam",
-    "geboortedag": "08/05",
-    "mobiel": "06-24872702",
-    "email": "frankedith@hetnet.nl",
-    "clublid": "2008/01/10",
-    "soort": "Zwemlid"
-  },
-  {
     "voornaam": "Eelco de",
     "achternaam": "Smidt",
     "geboortedag": "07/08",
@@ -312,15 +276,6 @@
     "mobiel": "06-55160618",
     "email": "elwindirkse@hotmail.com",
     "clublid": "1994/03/11",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Erik",
-    "achternaam": "Skoda",
-    "geboortedag": "11/02",
-    "mobiel": "06-18061849",
-    "email": "e.skoda@chello.nl",
-    "clublid": "2008/01/01",
     "soort": "Hoofdlid-NOB"
   },
   {
@@ -376,15 +331,6 @@
     "email": "i.shokaryev@gmail.com",
     "clublid": "2018/09/22",
     "soort": "Zwemlid"
-  },
-  {
-    "voornaam": "Femke",
-    "achternaam": "Groot",
-    "geboortedag": "07/13",
-    "mobiel": "06-37360379",
-    "email": "fem.groot@gmail.com",
-    "clublid": "2018/01/01",
-    "soort": "Duiklid-NOB"
   },
   {
     "voornaam": "Floor",
@@ -585,15 +531,6 @@
     "soort": "Hoofdlid-NOB"
   },
   {
-    "voornaam": "Henk",
-    "achternaam": "Seeder",
-    "geboortedag": "05/14",
-    "mobiel": "",
-    "email": "",
-    "clublid": "1970/01/15",
-    "soort": ""
-  },
-  {
     "voornaam": "Igor",
     "achternaam": "Shokaryev",
     "geboortedag": "11/15",
@@ -648,15 +585,6 @@
     "soort": "Hoofdlid-NOB"
   },
   {
-    "voornaam": "Jan",
-    "achternaam": "Peters",
-    "geboortedag": "07/10",
-    "mobiel": "06-21504963",
-    "email": "janptrs9-c@telfort.nl",
-    "clublid": "1990/10/01",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
     "voornaam": "Jan-Pieter",
     "achternaam": "Smit",
     "geboortedag": "03/21",
@@ -681,15 +609,6 @@
     "mobiel": "06-54650790",
     "email": "jeroenkamp90@hotmail.com",
     "clublid": "2019/01/17",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Jeroen",
-    "achternaam": "Reininga",
-    "geboortedag": "03/16",
-    "mobiel": "06-18992418",
-    "email": "jeroen2day@gmail.com",
-    "clublid": "2020/01/03",
     "soort": "Hoofdlid-NOB"
   },
   {
@@ -846,33 +765,6 @@
     "soort": "Hoofdlid-NOB"
   },
   {
-    "voornaam": "Lisa",
-    "achternaam": "Groot-Olgers",
-    "geboortedag": "03/07",
-    "mobiel": "06-52241718",
-    "email": "lisa.ol.gr@gmail.com",
-    "clublid": "2019/07/01",
-    "soort": "Zwemlid"
-  },
-  {
-    "voornaam": "Loes",
-    "achternaam": "Stok",
-    "geboortedag": "10/01",
-    "mobiel": "06-20023973",
-    "email": "louisestok@hotmail.com",
-    "clublid": "2011/01/12",
-    "soort": "Zwemlid"
-  },
-  {
-    "voornaam": "Marc van",
-    "achternaam": "Dormolen",
-    "geboortedag": "03/09",
-    "mobiel": "",
-    "email": "mmt1@xs4all.nl",
-    "clublid": "1990/10/01",
-    "soort": "Hoofdlid-Niet NOB"
-  },
-  {
     "voornaam": "Marcel de",
     "achternaam": "Groot",
     "geboortedag": "09/06",
@@ -934,15 +826,6 @@
     "email": "mc.stolvoort@gmail.com",
     "clublid": "1997/08/17",
     "soort": "Hoofdlid-Niet NOB"
-  },
-  {
-    "voornaam": "Marielle",
-    "achternaam": "Kuipers",
-    "geboortedag": "10/24",
-    "mobiel": "",
-    "email": "jelkuipers@yahoo.com",
-    "clublid": "2006/09/15",
-    "soort": "Zwemlid"
   },
   {
     "voornaam": "Marina",
@@ -1115,15 +998,6 @@
     "email": "f.kuipers@lijbrandt.nl",
     "clublid": "2014/01/01",
     "soort": "Zwemlid"
-  },
-  {
-    "voornaam": "Nout",
-    "achternaam": "Kors",
-    "geboortedag": "06/01",
-    "mobiel": "06-34782972",
-    "email": "noutcbr600@gmail.com",
-    "clublid": "1999/01/01",
-    "soort": "Hoofdlid-Niet NOB"
   },
   {
     "voornaam": "Patricia",
@@ -1429,15 +1303,6 @@
     "mobiel": "06-57577200",
     "email": "skooijman1982@gmail.com",
     "clublid": "2015/10/29",
-    "soort": "Hoofdlid-NOB"
-  },
-  {
-    "voornaam": "Sascha",
-    "achternaam": "Groot",
-    "geboortedag": "10/31",
-    "mobiel": "06-37578318",
-    "email": "sascha.groot.mail@gmail.com",
-    "clublid": "2017/05/18",
     "soort": "Hoofdlid-NOB"
   },
   {
