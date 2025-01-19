@@ -7,7 +7,8 @@
     "email": "alexpeschar@gmail.com",
     "clublid": "2004/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Almar",
     "achternaam": "Uilenbroek",
@@ -16,7 +17,8 @@
     "email": "almar@vankatoen.info",
     "clublid": "2009/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Anne",
     "achternaam": "Bekema",
@@ -25,7 +27,8 @@
     "email": "abekema@gmail.com",
     "clublid": "2021/12/31",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Anne-Ruth",
     "achternaam": "Elffers",
@@ -34,7 +37,8 @@
     "email": "ar.elffers@gmail.com",
     "clublid": "2018/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Annie van",
     "achternaam": "Pieterson",
@@ -43,7 +47,8 @@
     "email": "avanpieterson@hotmail.com",
     "clublid": "2008/01/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Anny de",
     "achternaam": "Graauw",
@@ -52,7 +57,8 @@
     "email": "jfmgraauw@gmail.com",
     "clublid": "2018/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Arjan van",
     "achternaam": "Ombergen",
@@ -61,7 +67,8 @@
     "email": "arjan_1978@hotmail.com",
     "clublid": "2010/01/10",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Astrid",
     "achternaam": "Zonneveld",
@@ -70,7 +77,8 @@
     "email": "astrid.zonneveld@yahoo.com",
     "clublid": "2001/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Bart",
     "achternaam": "Teeuwen",
@@ -79,7 +87,8 @@
     "email": "b.teeuwen76@gmail.com",
     "clublid": "2019/03/10",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Bart van den",
     "achternaam": "Kommer",
@@ -88,7 +97,8 @@
     "email": "bartvandenkommer@gmail.com",
     "clublid": "2013/01/04",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Bas",
     "achternaam": "Salzmann",
@@ -97,7 +107,8 @@
     "email": "basbsalzmann@gmail.com",
     "clublid": "2008/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ben",
     "achternaam": "Langeveld",
@@ -106,7 +117,8 @@
     "email": "benfire52@hotmail.com",
     "clublid": "2006/01/09",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Benjamin",
     "achternaam": "Kooijman",
@@ -115,7 +127,8 @@
     "email": "skooijman1982@gmail.com",
     "clublid": "2021/12/31",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Betty",
     "achternaam": "Schouten",
@@ -124,7 +137,8 @@
     "email": "betty.schouten@wxs.nl",
     "clublid": "1997/11/01",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Bodhi van den",
     "achternaam": "Brink",
@@ -133,7 +147,8 @@
     "email": "theadegraafvrolijk@gmail.com",
     "clublid": "2015/01/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Carina",
     "achternaam": "Boerboom-Tolle",
@@ -142,7 +157,8 @@
     "email": "carinatolle1@gmail.com",
     "clublid": "2021/11/13",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Cees",
     "achternaam": "Hoogland",
@@ -151,7 +167,8 @@
     "email": "post@ceeshoogland.nl",
     "clublid": "1977/09/22",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Cees",
     "achternaam": "Sep",
@@ -160,7 +177,8 @@
     "email": "cjsep@jelima.nl",
     "clublid": "2008/01/10",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Chris",
     "achternaam": "Lether",
@@ -169,7 +187,8 @@
     "email": "chrislether@ziggo.nl",
     "clublid": "1982/02/18",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Christopher",
     "achternaam": "Henrich",
@@ -178,7 +197,8 @@
     "email": "cdh79@caiway.nl",
     "clublid": "2015/10/29",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Cora van den",
     "achternaam": "Nieuwendijk",
@@ -187,7 +207,8 @@
     "email": "cvdnieuwendijk@jelima.nl",
     "clublid": "2011/01/06",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Corine",
     "achternaam": "Diek",
@@ -196,7 +217,8 @@
     "email": "corinediekrip@outlook.com",
     "clublid": "2023-01-01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Daley van den",
     "achternaam": "Brink",
@@ -205,7 +227,8 @@
     "email": "theadegraafvrolijk@gmail.com",
     "clublid": "2017/01/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Danielle",
     "achternaam": "Nootenboom",
@@ -214,7 +237,8 @@
     "email": "hanshoole@hotmail.com",
     "clublid": "2014/01/11",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Dennis",
     "achternaam": "Dekker",
@@ -223,7 +247,8 @@
     "email": "dennis.dekker@quicknet.nl",
     "clublid": "2003/09/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Dick van de",
     "achternaam": "Watering",
@@ -232,7 +257,8 @@
     "email": "djhms2004@hotmail.com",
     "clublid": "2012/01/01",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ed de",
     "achternaam": "Groot",
@@ -241,7 +267,8 @@
     "email": "degroot5411@gmail.com",
     "clublid": "1980/05/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ed",
     "achternaam": "Kuijper",
@@ -250,7 +277,8 @@
     "email": "ed.kuijper@gmail.com",
     "clublid": "1991/01/09",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ed",
     "achternaam": "Ploeger",
@@ -259,7 +287,8 @@
     "email": "edploeger@hotmail.com",
     "clublid": "1976/03/01",
     "soort": "Seniorenlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Eelco de",
     "achternaam": "Smidt",
@@ -268,7 +297,8 @@
     "email": "eelco@desmidt.eu",
     "clublid": "1992/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Elwin Volmar",
     "achternaam": "Dirkse",
@@ -277,7 +307,8 @@
     "email": "elwindirkse@hotmail.com",
     "clublid": "1994/03/11",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Erik van der",
     "achternaam": "Maat",
@@ -286,7 +317,8 @@
     "email": "hcmaat@caiway.net",
     "clublid": "2002/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Erik van",
     "achternaam": "Lunteren",
@@ -295,7 +327,8 @@
     "email": "ej.van.lunteren@hccnet.nl",
     "clublid": "1990/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Erik",
     "achternaam": "Wijshake",
@@ -304,7 +337,8 @@
     "email": "eriktheperik@gmail.com",
     "clublid": "2022/02/18",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Esther van",
     "achternaam": "Veen",
@@ -313,7 +347,8 @@
     "email": "veen054@kpnmail.nl",
     "clublid": "2020/01/03",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Eva de",
     "achternaam": "Vries",
@@ -322,7 +357,8 @@
     "email": "reman@quicknet.nl",
     "clublid": "2014/01/10",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Evgeniy",
     "achternaam": "Shokaryev",
@@ -331,7 +367,8 @@
     "email": "i.shokaryev@gmail.com",
     "clublid": "2018/09/22",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Floor",
     "achternaam": "Kooijman",
@@ -340,7 +377,8 @@
     "email": "skooijman1982@gmail.com",
     "clublid": "2021/12/31",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Francis",
     "achternaam": "Sminia",
@@ -349,7 +387,8 @@
     "email": "ronald.francis@telfort.nl",
     "clublid": "2004/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Frank",
     "achternaam": "Kors",
@@ -358,7 +397,8 @@
     "email": "frankedith@hetnet.nl",
     "clublid": "1982/09/16",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Frank",
     "achternaam": "Scholtens",
@@ -367,7 +407,8 @@
     "email": "frank.scholtens@quicknet.nl",
     "clublid": "1998/09/24",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Frans",
     "achternaam": "Boerhof",
@@ -376,7 +417,8 @@
     "email": "fboerhof@hotmail.com",
     "clublid": "1998/10/18",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Frans",
     "achternaam": "Diek",
@@ -385,7 +427,8 @@
     "email": "gfdiek@hetnet.nl",
     "clublid": "1982/02/18",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Frans",
     "achternaam": "Schelling",
@@ -394,7 +437,8 @@
     "email": "fjschelling@gmail.com",
     "clublid": "2019/01/11",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Frans van den",
     "achternaam": "Berg",
@@ -403,7 +447,8 @@
     "email": "doemaarfrans@gmail.com",
     "clublid": "1990/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Fred",
     "achternaam": "Kuipers",
@@ -412,7 +457,8 @@
     "email": "f.kuipers@lijbrandt.nl",
     "clublid": "2000/04/25",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Fred",
     "achternaam": "Verlinden",
@@ -421,7 +467,8 @@
     "email": "faverlinden@gmail.com",
     "clublid": "1986/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Gert",
     "achternaam": "Krab",
@@ -430,7 +477,8 @@
     "email": "gertkrab@planet.nl",
     "clublid": "1993/10/01",
     "soort": "Seniorenlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ginette",
     "achternaam": "Barraud",
@@ -439,7 +487,8 @@
     "email": "mdegroot5519@gmail.com",
     "clublid": "1979/09/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Han",
     "achternaam": "Schiet",
@@ -448,7 +497,8 @@
     "email": "schiet.han@gmail.com",
     "clublid": "1984/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Hannah de",
     "achternaam": "Wit",
@@ -457,7 +507,8 @@
     "email": "mathilde@serne.nl",
     "clublid": "2018/03/04",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Hans",
     "achternaam": "Boerboom",
@@ -466,7 +517,8 @@
     "email": "hans.boerboom@gmail.com",
     "clublid": "1987/01/04",
     "soort": "Seniorenlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Hans",
     "achternaam": "Castien",
@@ -475,7 +527,8 @@
     "email": "j.castien@quicknet.nl",
     "clublid": "1986/10/01",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Hans",
     "achternaam": "Hoekstra",
@@ -484,7 +537,8 @@
     "email": "hc.hoekstra@quicknet.nl",
     "clublid": "1994/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Hans",
     "achternaam": "Hoole",
@@ -493,7 +547,8 @@
     "email": "hanshoole@hotmail.com",
     "clublid": "2002/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Hans",
     "achternaam": "Kemp",
@@ -502,7 +557,8 @@
     "email": "sanhank@hotmail.com",
     "clublid": "1966/06/18",
     "soort": ""
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Hans",
     "achternaam": "Stolvoort",
@@ -511,7 +567,8 @@
     "email": "hans.stolvoort@planet.nl",
     "clublid": "1982/02/18",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Harm de",
     "achternaam": "Wit",
@@ -520,7 +577,8 @@
     "email": "harm.de.wit@hotmail.com",
     "clublid": "2013/09/05",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Hassan",
     "achternaam": "El Haddad",
@@ -529,7 +587,8 @@
     "email": "haddad84@hotmail.com",
     "clublid": "2023/09/15",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Igor",
     "achternaam": "Shokaryev",
@@ -538,7 +597,8 @@
     "email": "i.shokaryev@gmail.com",
     "clublid": "2018/02/18",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ilse",
     "achternaam": "Klomp",
@@ -547,7 +607,8 @@
     "email": "klompenzo@hotmail.com",
     "clublid": "2000/07/12",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ingeborg",
     "achternaam": "Korpershoek",
@@ -556,7 +617,8 @@
     "email": "ingeborgkorpershoek@hotmail.com",
     "clublid": "2008/01/10",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Isa",
     "achternaam": "Kuipers",
@@ -565,7 +627,8 @@
     "email": "f.kuipers@lijbrandt.nl",
     "clublid": "2014/01/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Isabelle",
     "achternaam": "Dethmers",
@@ -574,7 +637,8 @@
     "email": "isabelledethmers@gmail.com",
     "clublid": "2024/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Jan",
     "achternaam": "Gerver",
@@ -583,7 +647,8 @@
     "email": "jangerver@hotmail.com",
     "clublid": "1998/10/18",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Jan-Pieter",
     "achternaam": "Smit",
@@ -592,7 +657,8 @@
     "email": "jps-1963@hotmail.com",
     "clublid": "2003/09/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Jeanette",
     "achternaam": "Zieltjens-de Kort",
@@ -601,7 +667,8 @@
     "email": "jeankick@planet.nl",
     "clublid": "1998/09/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Jeroen",
     "achternaam": "Kamp",
@@ -610,7 +677,8 @@
     "email": "jeroenkamp90@hotmail.com",
     "clublid": "2019/01/17",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "John van",
     "achternaam": "Leeuwen",
@@ -619,7 +687,8 @@
     "email": "john-van-leeuwen@live.nl",
     "clublid": "1977/10/10",
     "soort": "Seniorenlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Jolanda",
     "achternaam": "Coppens-Zwetsloot",
@@ -628,7 +697,8 @@
     "email": "viermaalj@zonnet.nl",
     "clublid": "1996/08/25",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Jolanda",
     "achternaam": "Smaal",
@@ -637,7 +707,8 @@
     "email": "jolandaesmaal@hotmail.com",
     "clublid": "2020/10/27",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Joop van",
     "achternaam": "Asten",
@@ -646,7 +717,8 @@
     "email": "vasten@kpnmail.nl",
     "clublid": "1969/09/01",
     "soort": ""
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Joost",
     "achternaam": "Boerboom",
@@ -655,7 +727,8 @@
     "email": "joostboerboom@gmail.com",
     "clublid": "1991/11/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Jos",
     "achternaam": "Lempke",
@@ -664,7 +737,8 @@
     "email": "jos.lempke@gmail.com",
     "clublid": "2021/08/19",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Karla",
     "achternaam": "Helfensteijn",
@@ -673,7 +747,8 @@
     "email": "karla.derooij@tiscali.nl",
     "clublid": "1986/01/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Kate",
     "achternaam": "Peschar",
@@ -682,7 +757,8 @@
     "email": "katepschar@gmail.com",
     "clublid": "2019/03/18",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Kees",
     "achternaam": "Teeuwen",
@@ -691,7 +767,8 @@
     "email": "teeweld1952@gmail.com",
     "clublid": "1991/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Kick",
     "achternaam": "Zieltjens",
@@ -700,7 +777,8 @@
     "email": "zielt50@gmail.com",
     "clublid": "1986/01/09",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Kitty",
     "achternaam": "Veltman",
@@ -709,7 +787,8 @@
     "email": "kitty.veltman@gmail.com",
     "clublid": "2008/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ko",
     "achternaam": "Tol",
@@ -718,7 +797,8 @@
     "email": "ktol@wxs.nl",
     "clublid": "2008/01/06",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Koos",
     "achternaam": "Heerink",
@@ -727,7 +807,8 @@
     "email": "koos.heerink@xs4all.nl",
     "clublid": "2002/01/09",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Leo",
     "achternaam": "Baars",
@@ -736,7 +817,8 @@
     "email": "info@leobaars.nl",
     "clublid": "2008/01/12",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Lia",
     "achternaam": "Bruynes",
@@ -745,7 +827,8 @@
     "email": "bruynes1@hotmail.com",
     "clublid": "1996/10/18",
     "soort": "Hoofdlid-NOB, Seniorenlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Linda",
     "achternaam": "Cornelissen",
@@ -754,7 +837,8 @@
     "email": "taoling07@gmail.com",
     "clublid": "2008/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Linda",
     "achternaam": "Raats",
@@ -763,7 +847,8 @@
     "email": "lindaraats01@gmail.com",
     "clublid": "2015/02/27",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marcel de",
     "achternaam": "Groot",
@@ -772,7 +857,8 @@
     "email": "m.degroot5519@gmail.com",
     "clublid": "1978/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marcel",
     "achternaam": "Rem",
@@ -781,7 +867,8 @@
     "email": "marcel.rem@wolterskluwer.com",
     "clublid": "1996/08/16",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marcel",
     "achternaam": "Roozekrans",
@@ -790,7 +877,8 @@
     "email": "marcel@roozekrans.nl",
     "clublid": "2011/01/03",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marcel van",
     "achternaam": "Greevenbroek",
@@ -799,7 +887,8 @@
     "email": "marcelgreef@gmail.com",
     "clublid": "2015/01/02",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marcel van",
     "achternaam": "Houten",
@@ -808,7 +897,8 @@
     "email": "marcelmeel@yahoo.co.uk",
     "clublid": "1984/01/09",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marga van der",
     "achternaam": "Weerdt",
@@ -817,7 +907,8 @@
     "email": "vanderweerdtm4@gmail.com",
     "clublid": "1998/01/12",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marianne",
     "achternaam": "Stolvoort",
@@ -826,7 +917,8 @@
     "email": "mc.stolvoort@gmail.com",
     "clublid": "1997/08/17",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marina",
     "achternaam": "Serné",
@@ -835,7 +927,8 @@
     "email": "marina.serne@gmail.com",
     "clublid": "2000/09/11",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marije van",
     "achternaam": "Donk",
@@ -844,7 +937,8 @@
     "email": "marije@vandonk.net",
     "clublid": "2023/09/20",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marion",
     "achternaam": "Kieft",
@@ -853,7 +947,8 @@
     "email": "marion.kieft@hetnet.nl",
     "clublid": "1990/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Mariska",
     "achternaam": "Janszen",
@@ -862,7 +957,8 @@
     "email": "mariska2674@yahoo.com",
     "clublid": "2014/01/11",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Mariska",
     "achternaam": "Lechner",
@@ -871,7 +967,8 @@
     "email": "mariskalechner@gmail.com",
     "clublid": "2008/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marja",
     "achternaam": "Boerboom-van Elferen",
@@ -880,7 +977,8 @@
     "email": "marjavanelferen@hotmail.com",
     "clublid": "1988/11/01",
     "soort": "Seniorenlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Mark",
     "achternaam": "Ploeger",
@@ -899,7 +997,8 @@
     "email": "hendriksmartijn34@hotmail.com",
     "clublid": "2015/01/02",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Martijn",
     "achternaam": "Thijssen",
@@ -908,7 +1007,8 @@
     "email": "martijnthijssen8@gmail.com",
     "clublid": "2011/01/12",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Martin",
     "achternaam": "Kuipers",
@@ -917,7 +1017,8 @@
     "email": "m.kuipers@apk-schipholrijk.nl",
     "clublid": "2000/04/25",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Martin",
     "achternaam": "Schenk",
@@ -926,7 +1027,8 @@
     "email": "m_c_schenk@hotmail.com",
     "clublid": "2021/12/28",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Marvin",
     "achternaam": "Celie",
@@ -935,7 +1037,8 @@
     "email": "marvin.celie@casema.nl",
     "clublid": "2013/11/15",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Menno",
     "achternaam": "Rebergen",
@@ -944,7 +1047,8 @@
     "email": "mgrebergen@hotmail.nl",
     "clublid": "2011/01/15",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Mink",
     "achternaam": "Roozekrans",
@@ -953,7 +1057,8 @@
     "email": "marcel@roozekrans.nl",
     "clublid": "2018/03/15",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Minou",
     "achternaam": "Kuipers",
@@ -962,7 +1067,8 @@
     "email": "",
     "clublid": "2018/10/15",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Nico de",
     "achternaam": "Boer",
@@ -971,7 +1077,8 @@
     "email": "n.j.a.de.boer@hccnet.nl",
     "clublid": "1972/09/03",
     "soort": "Seniorenlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Nico",
     "achternaam": "Molenaar",
@@ -980,7 +1087,8 @@
     "email": "matthijsm85@gmail.com",
     "clublid": "1990/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Nico",
     "achternaam": "Verhoek",
@@ -989,7 +1097,8 @@
     "email": "nico.tecdiving@gmail.com",
     "clublid": "2017/01/06",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Nikki",
     "achternaam": "Kuipers",
@@ -998,7 +1107,8 @@
     "email": "f.kuipers@lijbrandt.nl",
     "clublid": "2014/01/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Patricia",
     "achternaam": "Diek-Cremer",
@@ -1007,7 +1117,8 @@
     "email": "gp.diek@quicknet.nl",
     "clublid": "1979/11/08",
     "soort": "Seniorenlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Patricia",
     "achternaam": "Dekker",
@@ -1016,7 +1127,8 @@
     "email": "pvan_mourik@hotmail.com",
     "clublid": "2011/01/03",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Paul",
     "achternaam": "Diek",
@@ -1025,7 +1137,8 @@
     "email": "gp.diek@quicknet.nl",
     "clublid": "1977/09/22",
     "soort": "Hoofdlid-Niet NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Paul van der",
     "achternaam": "Zwan",
@@ -1034,7 +1147,8 @@
     "email": "ovh@vanderzwan.org",
     "clublid": "2018/02/08",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Paula",
     "achternaam": "Rem",
@@ -1043,7 +1157,8 @@
     "email": "marcel.rem@wolterskluwer.com",
     "clublid": "2009/01/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Peter den",
     "achternaam": "Boer",
@@ -1052,7 +1167,8 @@
     "email": "pljdenboer@gmail.com",
     "clublid": "1993/02/04",
     "soort": "Seniorenlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Peter",
     "achternaam": "Enneking",
@@ -1061,7 +1177,8 @@
     "email": "peter_enneking@yahoo.com",
     "clublid": "1982/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Peter",
     "achternaam": "Schoonheim",
@@ -1070,7 +1187,8 @@
     "email": "schoonheim.peter@gmail.com",
     "clublid": "1990/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Peter",
     "achternaam": "Wesselink",
@@ -1079,7 +1197,8 @@
     "email": "pwesselink@xs4all.nl",
     "clublid": "1994/04/24",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Phea",
     "achternaam": "Vrijdag",
@@ -1088,7 +1207,8 @@
     "email": "phea_vrijdag@hotmail.com",
     "clublid": "1997/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Piet",
     "achternaam": "Hageman",
@@ -1097,7 +1217,8 @@
     "email": "paghageman0@gmail.com",
     "clublid": "1980/09/06",
     "soort": "Seniorenlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Piet",
     "achternaam": "Lammerse",
@@ -1106,7 +1227,8 @@
     "email": "p.h.lammerse@gmail.com",
     "clublid": "1985/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Pieter",
     "achternaam": "Brem",
@@ -1115,7 +1237,8 @@
     "email": "brem@freedom.nl",
     "clublid": "2002/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Pim",
     "achternaam": "Kuipers",
@@ -1124,7 +1247,8 @@
     "email": "",
     "clublid": "2018/10/15",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ralph de",
     "achternaam": "Wit",
@@ -1133,7 +1257,8 @@
     "email": "ralph.dewit@kpnmail.nl",
     "clublid": "2008/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Remko de",
     "achternaam": "Vries",
@@ -1142,7 +1267,8 @@
     "email": "reman@quicknet.nl",
     "clublid": "2008/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ria van",
     "achternaam": "Leeuwen",
@@ -1151,7 +1277,8 @@
     "email": "riabussing@hotmail.com",
     "clublid": "2008/01/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Rien",
     "achternaam": "Boterman",
@@ -1160,7 +1287,8 @@
     "email": "post@boterman.nl",
     "clublid": "2021/07/07",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Rob",
     "achternaam": "Prikker",
@@ -1169,7 +1297,8 @@
     "email": "rjprikker@gmail.com",
     "clublid": "1973/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Robert de",
     "achternaam": "Jong",
@@ -1178,7 +1307,8 @@
     "email": "robdejong407@gmail.com",
     "clublid": "2010/10/21",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Robert",
     "achternaam": "Groot",
@@ -1187,7 +1317,8 @@
     "email": "dhr.grr@gmail.com",
     "clublid": "2014/05/10",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Robert",
     "achternaam": "Jacobs",
@@ -1196,7 +1327,8 @@
     "email": "robcisca@telfort.nl",
     "clublid": "1987/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Robin",
     "achternaam": "Hoole",
@@ -1205,7 +1337,8 @@
     "email": "r.hoole@hotmail.com",
     "clublid": "2006/08/15",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Roel",
     "achternaam": "Mallens",
@@ -1214,7 +1347,8 @@
     "email": "rmallens@xs4all.nl",
     "clublid": "1997/12/09",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ron",
     "achternaam": "Engeler",
@@ -1223,7 +1357,8 @@
     "email": "ron.engeler@jci.com",
     "clublid": "1998/10/18",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ron",
     "achternaam": "Jansen",
@@ -1232,7 +1367,8 @@
     "email": "jansenrc@xs4all.nl",
     "clublid": "2008/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ron",
     "achternaam": "Jonk",
@@ -1241,7 +1377,8 @@
     "email": "ovh@frontendplace.nl",
     "clublid": "2008/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ronald de",
     "achternaam": "Boer",
@@ -1250,7 +1387,8 @@
     "email": "info@deboermontage.nl",
     "clublid": "1998/10/18",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ronald",
     "achternaam": "Sminia",
@@ -1259,7 +1397,8 @@
     "email": "ronald.francis@telfort.nl",
     "clublid": "2004/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ronnie",
     "achternaam": "Allebrandi",
@@ -1268,7 +1407,8 @@
     "email": "r.allebrandi@planet.nl",
     "clublid": "2020/10/23",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Ruud",
     "achternaam": "Leijtens",
@@ -1277,7 +1417,8 @@
     "email": "leijtensr@planet.nl",
     "clublid": "1993/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Saar",
     "achternaam": "Roozekrans",
@@ -1286,7 +1427,8 @@
     "email": "marcel@roozekrans.nl",
     "clublid": "2022/01/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Sander",
     "achternaam": "Hahn",
@@ -1295,7 +1437,8 @@
     "email": "sanderhahn@gmail.com",
     "clublid": "2015/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Sander",
     "achternaam": "Kooijman",
@@ -1304,7 +1447,8 @@
     "email": "skooijman1982@gmail.com",
     "clublid": "2015/10/29",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Saskia",
     "achternaam": "Brem",
@@ -1313,7 +1457,8 @@
     "email": "suskiab@hotmail.com",
     "clublid": "2002/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Saskia",
     "achternaam": "Rem",
@@ -1322,7 +1467,8 @@
     "email": "marcel.rem@wolterskluwer.com",
     "clublid": "2009/01/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Sijtze",
     "achternaam": "Visser",
@@ -1331,7 +1477,8 @@
     "email": "s.visser20@chello.nl",
     "clublid": "1998/09/30",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Sjoerd",
     "achternaam": "Andela",
@@ -1340,7 +1487,8 @@
     "email": "symandela.sa@gmail.com",
     "clublid": "1980/09/25",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Tess",
     "achternaam": "Hoole",
@@ -1349,7 +1497,8 @@
     "email": "priscametz@gmail.com",
     "clublid": "2019/01/13",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Thea de",
     "achternaam": "Graaf-Vrolijk",
@@ -1358,7 +1507,8 @@
     "email": "theadegraafvrolijk@gmail.com",
     "clublid": "2000/08/23",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Thijs",
     "achternaam": "Nootenboom",
@@ -1367,7 +1517,8 @@
     "geboortedag": "08/31",
     "clublid": "2014/11/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Trudy de",
     "achternaam": "Boer",
@@ -1376,7 +1527,8 @@
     "geboortedag": "04/18",
     "clublid": "2024/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Vincent Ewout",
     "achternaam": "Mescher",
@@ -1385,7 +1537,8 @@
     "email": "xxx@xxxx.nl",
     "clublid": "1900/01/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Willem van de",
     "achternaam": "Klok",
@@ -1394,7 +1547,8 @@
     "email": "willemvandeklok@outlook.com",
     "clublid": "2004/07/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Willem van",
     "achternaam": "Pieterson",
@@ -1403,7 +1557,8 @@
     "email": "wimvanpieterson@hotmail.com",
     "clublid": "2003/03/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Willemijn",
     "achternaam": "Botman",
@@ -1412,7 +1567,8 @@
     "email": "willemijn.botman@gmail.com",
     "clublid": "2001/01/01",
     "soort": "Zwemlid"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Wim",
     "achternaam": "Smaal",
@@ -1421,7 +1577,8 @@
     "email": "wimmsx@gmail.com",
     "clublid": "1984/06/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Wouter de",
     "achternaam": "Groot",
@@ -1430,7 +1587,8 @@
     "email": "p.grootbooms@upcmail.nl",
     "clublid": "1993/10/01",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Wouter",
     "achternaam": "Geurtsen",
@@ -1439,7 +1597,8 @@
     "email": "w.geurtsen@planet.nl",
     "clublid": "2007/01/10",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Wouter van",
     "achternaam": "Deursen",
@@ -1448,7 +1607,8 @@
     "email": "wouter.van.deursen@gmail.com",
     "clublid": "1997/07/30",
     "soort": "Hoofdlid-NOB"
-  },
+  , "geslacht": "M"
+    },
   {
     "voornaam": "Yvette de",
     "achternaam": "Smidt",
