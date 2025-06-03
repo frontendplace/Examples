@@ -670,6 +670,16 @@
     "geslacht":"M"
   },
   {
+    "voornaam":"Job",
+    "achternaam":"Thijssen",
+    "geboortedag":"01/01",
+    "mobiel":"",
+    "email":"Jobthijssen1@gmail.com",
+    "clublid":"2025/01/01",
+    "soort":"Hoofdlid-Niet NOB",
+    "geslacht":"M"
+  },
+  {
     "voornaam":"John van",
     "achternaam":"Leeuwen",
     "geboortedag":"03/07",
@@ -1346,16 +1356,6 @@
     "mobiel":"06-50694231",
     "email":"ron.engeler@jci.com",
     "clublid":"1998/10/18",
-    "soort":"Hoofdlid-NOB",
-    "geslacht":"M"
-  },
-  {
-    "voornaam":"Ron",
-    "achternaam":"Jansen",
-    "geboortedag":"09/10",
-    "mobiel":"06-55833443",
-    "email":"jansenrc@xs4all.nl",
-    "clublid":"2008/01/01",
     "soort":"Hoofdlid-NOB",
     "geslacht":"M"
   },
